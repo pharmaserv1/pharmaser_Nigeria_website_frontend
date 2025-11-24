@@ -74,7 +74,7 @@ const CopilotFlex = ({
                   width={24}
                   height={24}
                 />
-                <p className="text-base text-dark-gray">{item}</p>
+                <p className="text-base text-left text-dark-gray">{item}</p>
               </div>
             ))}
           </div>
