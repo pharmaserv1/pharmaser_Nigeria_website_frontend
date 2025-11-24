@@ -12,8 +12,8 @@ const HeroSection: React.FC = () => {
         <div className="flex  max-md:flex-col justify-between items-center text-center max-w-[1280px] mx-auto max-xl:px-8 gap-8 ">
           <div className="max-w-4xl  mt-8 md:mt-20 mb-4 ">
             <h1 className="text-4xl lg:text-6xl font-semibold  text-white lg:w-[606px] !font-sofia max-md:text-center text-left mb-6">
-              Assistant Omnichannel AI <br /> Assistant to Empower <br /> Sales,
-              Marketing, and <br /> Medical Solutions
+              Assistant Omnichannel AI Assistant to Empower Sales, Marketing,
+              and Medical Solutions
             </h1>
             <p className="text-base lg:text-xl text-[#FFFFFFB2] mb-4 max-w-[456px] text-left font-semibold max-md:text-center">
               PharmaServ helps life-science and Pharma teams simplify work,
@@ -46,7 +46,7 @@ const HeroSection: React.FC = () => {
           </div>
         </div>
 
-        <div className=" my-8 bg-[#081225] py-2 mx-4 rounded-t-[44px]">
+        <div className=" my-8 bg-[#d4e1f7] py-2 mx-4 rounded-t-[44px]">
           <LogoSection
             logos={[
               {

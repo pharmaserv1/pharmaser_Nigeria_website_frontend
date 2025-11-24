@@ -37,7 +37,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center gap-2">
               <p className="text-gray-700" style={{ whiteSpace: 'pre-line' }}>
-                {lang('contact.address')}
+                44 Commercial Avenue, Sabo, Yaba Lagos
               </p>
             </div>
           </div>
