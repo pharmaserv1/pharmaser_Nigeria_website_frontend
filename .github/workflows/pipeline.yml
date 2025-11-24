@@ -1,4 +1,4 @@
-name: Deploy to cPanel (Dev, Staging, Main).
+name: Deploy to cPanel (Dev, Staging, Main)
 on:
   push:
     branches:
