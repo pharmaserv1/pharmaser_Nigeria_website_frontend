@@ -1,0 +1,761 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Omnichannel AI Assistant to Empower Sales, Marketing, and Medical",
+      "subtitle": "Boost Productivity, Automate Workflow, Tailor Engagement and Behavioral Insights.",
+      "cta": "Watch a Demo",
+      "register": "Register"
+    },
+    "solutions": {
+      "badge": "Our Solutions",
+      "title": "Explore PharmaServ's Omnichannel",
+      "subTitle": "AI-Powered Solutions",
+      "description": "PharmaServ orchestrates field operations, medical affairs, and HCP engagement with AI-powered automation, multichannel communication, and real-time insights. Simplify complex processes, maximize medical representatives productivity, ensure compliance, and drive brand growth with one unified platform."
+    },
+    "trustedBy": {
+      "title": "Trusted by"
+    },
+    "whyPharmaServ": {
+      "badge": "Why PharmaServ?",
+      "title": "Everything You Need to Increase Engagement"
+    },
+    "clients": {
+      "badge": "Our Clients",
+      "title": "Trusted by Canada's Leading Pharma and Life Science Innovators",
+      "description": "Join leading Pharma and Biotech teams who trust PharmaServ to increase HCP engagement and deliver data-backed sales results."
+    }
+  },
+  "Header": {
+    "home": "Home",
+    "products": "Products",
+    "useCase": "Use Case",
+    "contactUs": "Contact Us",
+    "login": "Log in",
+    "register": "Register",
+    "productsDropdown": {
+      "copilot": "Copilot",
+      "fieldServiceManagement": "Field Service Management"
+    },
+    "useCaseDropdown": {
+      "pharmaSalesSoftware": "Pharmaceutical Sales Software",
+      "pharmaSalesAiTool": "Pharma Sales AI Tool",
+      "eDetailing": "Pharmaceutical E-Detailing",
+      "crm": "Pharma CRM",
+      "conversationIntelligence": "Conversation Intelligence",
+      "aiScheduling": "AI Scheduling Assistant"
+    },
+    "loginDropdown": {
+      "pharmaservCopilot": "Pharmaserv Copilot",
+      "fieldServiceManagement": "Field Service Management"
+    }
+  },
+  "stackCards": {
+    "card1": {
+      "title": "Plan and Execute HCP Engagement with Event and Campaign Management Tools",
+      "description": "Schedule meetings, organize events, launch multichannel campaigns, and track every interaction in real time. Boost engagement while staying fully compliant."
+    },
+    "card2": {
+      "title": "AI-Powered Field Management Platform to Streamline Medical Representatives Efficiency",
+      "description": "Plan daily calls faster, target high-value HCPs, and automate scheduling to boost productivity and ensure full compliance, all in one intuitive platform."
+    },
+    "card3": {
+      "title": "Medical E-Detailing to Drive HCP Engagement",
+      "description": "Equip reps with data-driven, compliant content for every conversation. Track performance in real time and boost productivity with E-Detailing workflows."
+    },
+    "card4": {
+      "title": "Real-Time GPS Tracking for Rep Visit Accuracy",
+      "description": "Verify rep movement with built-in GPS geo-fencing. Ensure accountability, maintain compliance, and track visits in real time for full operational visibility."
+    },
+    "card5": {
+      "title": "Prospect Communication Tools to Increase Conversions",
+      "description": "Enable reps with timely reminders, approved content, and automated touchpoints to stay top-of-mind and drive more meaningful HCP engagement."
+    },
+    "card6": {
+      "title": "Field Sales Analytics to Guide Smarter Strategy and Identify Opportunities",
+      "description": "Unlock real-time actionable insights analytics. Spot performance trends, identify growth opportunities, and optimize territory strategy with data that drives ROI."
+    }
+  },
+  "solutionsSection": {
+    "copilot": {
+      "number": "01",
+      "title": "PharmaServ Copilot:",
+      "description": "Get real-time performance insights, simplify reporting, stay focused and productive, work smarter and faster, with stronger engagement.",
+      "features": {
+        "scheduleMeetings": "Schedule and track meetings",
+        "planEvents": "Plan events and campaigns",
+        "hcpInsights": "View personalized HCP and HCO insights",
+        "conductMeetings": "Conduct physical or E-Detailing meetings"
+      },
+      "learnMore": "Learn more"
+    },
+    "fieldService": {
+      "number": "02",
+      "title": "Field Service Platform:",
+      "description": "Sales Representatives can now close more calls and increase earnings with AI-powered Field Service Platform:",
+      "features": {
+        "manageProduct": "Manage product",
+        "trackOrders": "Track orders in real time",
+        "prioritizeLeads": "Prioritize and qualify leads",
+        "scheduleVisits": "Schedule and optimize visits"
+      },
+      "learnMore": "Learn more"
+    },
+    "alt": {
+      "copilotFlex": "Copilot Flex",
+      "arrowRight": "arrow right"
+    }
+  },
+  "hcpEngagement": {
+    "title": "Boost HCP Engagement and Drive More Conversions Through Visual Detailing",
+    "description": "Empower your medical reps with easy-to-use E-Detailing tools that boost product understanding and streamline visual storytelling. With Pharmaserv, your field team delivers consistent, impactful messaging that builds trust and strengthens advocacy from healthcare professionals.",
+    "getDemo": "Get a Demo",
+    "alt": {
+      "hcpEngagement": "hcp engagement"
+    }
+  },
+  "counterSection": {
+    "stats": {
+      "agents": "Agents",
+      "usersWorldwide": "Users Worldwide",
+      "integrations": "Integration with technology partners"
+    }
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "Hear From Canada's Pharma and Life Science Leaders",
+    "subtitle": "Discover how PharmaServ has transformed HCP engagement and productivity for Canada's top life-science teams.",
+    "testimonialCards": {
+      "card1": {
+        "quote": "Personalization at scale made my MSR more proactive and daily task execution much easier.",
+        "name": "Mrs Ijeoma",
+        "position": "Director Marketing & Sales",
+        "company": "- Grinta Pharma"
+      },
+      "card2": {
+        "quote": "Impressive software tool for healthcare brands, with an amazing team and strong industry insights. Keep up the great work.",
+        "name": "Mohamed Attye",
+        "position": "CEO - Global Care",
+        "company": "Distribution"
+      },
+      "card3": {
+        "quote": "This tool is a better guide for our business. It helps us plan our visits well and serves as a memory aid when we forget the name of a prospect already registered. Simple and easy to use.",
+        "name": "Justin Biaye",
+        "position": "PROMOTION MEDICALE DU SENEGAL"
+      },
+      "card4": {
+        "quote": "This app is both practical and effective, and it makes working with healthcare professionals much easier. Well done  PharmaServ!",
+        "name": "Aliou Ndiaye",
+        "position": "PROMOTION MEDICALE DU SENEGAL"
+      }
+    },
+    "ctaText": "Start Your Demo and See the Results for Yourself",
+    "getDemo": "Get a Demo",
+    "alt": {
+      "testimonialImage": "testimonial",
+      "quote": "quote"
+    }
+  },
+  "faq": {
+    "badge": "FAQs",
+    "title": "See How PharmaServ Can Help Your Team",
+    "questions": [
+      {
+        "title": "Who is PharmaServ built for?",
+        "description": [
+          "PharmaServ is an integrated mobile and web-based software platform designed for pharmaceutical companies in Canada. It automates sales, marketing, and medical detailing processes through two main products: Copilot, and Field Service software.",
+          "The PharmaServ Copilot e-detailing solution streamlines the medical detailing process, empowering sales teams and medical representatives to effectively engage healthcare professionals and promote pharmaceutical products.",
+          "The Field Service software optimizes real-time sales operations such as order generation, tracking, and territory management.Managers can invite team members, set KPIs, and monitor daily workflows to ensure efficient e-detailing performance and consistent sales execution across the board."
+        ]
+      },
+      {
+        "title": "What is PharmaServ's e-detailing platform, and how does it improve HCP engagement?",
+        "description": [
+          "PharmaServ's e-detailing platform supports medical reps and pharma companies in delivering impactful presentations. It improves HCP engagement by enabling bulk content uploads, providing real-time insights, and helping sales teams manage data and track performance, ultimately boosting efficiency and interaction quality."
+        ]
+      },
+      {
+        "title": "How can PharmaServ's software help manage medical representatives?",
+        "description": [
+          "PharmaServ's field service management software helps manage medical representatives through real-time GPS geo-fencing, KPI tracking, and smart scheduling tools. These features allow managers to monitor activities, optimize field operations, and ensure effective sales performance and customer engagement."
+        ]
+      },
+      {
+        "title": "What benefits does PharmaServ offer for both physical and e-detailing presentations?",
+        "description": [
+          "PharmaServ's remote detailing solutions offer a comprehensive suite of tools to empower your medical reps with e-detailing presentations, making it easy to deliver engaging and dynamic content. With our interactive elements, such as demo videos, and real-time data capture, your reps can maintain seamless communication and build strong relationships with healthcare professionals, even from a distance. This ensures your team consistently delivers high-quality e-detailing experiences, improving engagement and outcomes and e-detailing performance across multiple channels. By banking on these features, your pharma company can improve efficiency, increase pharmaceutical sales, and optimize customer interactions regardless of location. Our service offerings provide benefits that continue to grow as your business evolves. You can trust that the benefits are inexhaustible."
+        ]
+      },
+      {
+        "title": "How does PharmaServ support KPI monitoring and data reporting for pharma companies?",
+        "description": [
+          "PharmaServ's dynamic KPI monitoring system provides real-time data and insights into medical rep performance, enabling pharma companies to make data-driven decisions and optimize field operations."
+        ]
+      },
+      {
+        "title": "What types of content can be uploaded to the PharmaServ platform for medical detailing?",
+        "description": [
+          "PharmaServ's platform enhances efficiency by allowing bulk uploads of e-detailing content, such as product presentations, infographics, and other essential marketing materials. This enables medical reps to share important information with healthcare professionals effortlessly, ensuring they are well-equipped for meetings and interactions. PharmaServ empowers reps to improve communication, increase customer engagement, and deliver more impactful e-detailing presentations by facilitating easy content management and distribution. That's a win for you, and we are making that happen."
+        ]
+      },
+      {
+        "title": "How does PharmaServ improve communication within sales teams and with healthcare professionals?",
+        "description": [
+          "PharmaServ enhances communication by providing powerful tools for real-time data reporting and centralized, uniform communication channels. This ensures that sales teams and healthcare professionals receive accurate, up-to-date information, enabling seamless collaboration, faster decision-making, and stronger engagement throughout the sales and detailing process."
+        ]
+      },
+      {
+        "title": "What are the key advantages of using Pharmaserv for pharma sales automation?",
+        "description": [
+          "PharmaServ provides powerful sales automation tools such as real-time order generation, digital pricing lists, and seamless integration with ERP systems. These features enhance operational efficiency, reduce manual tasks, and streamline pharmaceutical sales processes across multiple platforms, driving faster, smarter, and more accurate sales execution."
+        ]
+      },
+      {
+        "title": "What security measures does Pharmaserv implement?",
+        "description": [
+          "PharmaServ ensures robust security by regularly applying software and operating system patches to maintain the latest, most secure versions. Its cloud-based e-detailing solutions enforce strong password protocols and restrict access to authorized users only, safeguarding system integrity and protecting sensitive pharmaceutical data from unauthorized access."
+        ]
+      }
+    ],
+    "contactText": "Not sure which features fit your team? Contact us and we'll guide you.",
+    "contactButton": "Contact Us",
+    "alt": {
+      "plusIcon": "plus icon"
+    }
+  },
+  "platformOverview": {
+    "badge": "Platform Overview",
+    "hcp": {
+      "title": "Simplify HCP Engagements. Driving treatment adoption.",
+      "description": "PharmaServ helps pharma and healthcare medical affairs teams reach hard-to-find prescribers and grow brand adoption."
+    },
+    "fieldSales": {
+      "title": "Simplify Field Sales. Start Driving Growth.",
+      "description": "PharmaServ helps pharma and healthcare sales teams reach hard-to-find customers and grow brand adoption with smarter targeting."
+    },
+    "loginButton": "Login into a free account"
+  },
+  "footer": {
+    "description": "PharmaServ helps pharma and life science sales teams boost productivity with AI-powered workflows, real-time HCP insights, and compliant engagement.",
+    "descriptionContinued": "Drive more calls, grow prescriptions, and make every connection count.",
+    "contact": {
+      "title": "Contact",
+      "phone": "+12369785171",
+      "email": "info@pharmaserv.co",
+      "address": "4178 Dawson Street Burnaby\nBritish Columbia, Canada.\nV5C 0A1"
+    },
+    "services": {
+      "title": "Services",
+      "copilot": "Copilot",
+      "fieldService": "Field Service",
+      "aboutUs": "About us",
+      "resources": "Resources"
+    },
+    "policy": {
+      "title": "Policy",
+      "privacyPolicy": "Privacy Policy",
+      "riskAssessmentPolicy": "Risk Assessment Policy",
+      "acceptableUsePolicy": "Acceptable Use Policy",
+      "cookiePolicy": "Cookie Policy"
+    },
+    "copyright": "Copyright ©2025 PharmaServ",
+    "alt": {
+      "pharmaservLogo": "pharmaserv logo",
+      "socialIcon": "svg"
+    }
+  },
+  "helpCenter": {
+    "badge": "We're Here to Help",
+    "title": "PharmaServ Help Center",
+    "description": "Discover a wealth of resources and personalized assistance designed to empower you on your journey. PharmaServ Help Center is your go-to destination for answers, and a helping hand whenever you need it.",
+    "customerService": {
+      "title": "Customer Service",
+      "description": "Get personal help from a PharmaServ specialist. We'll guide you to the right solution.",
+      "button": "Talk to an Expert"
+    },
+    "helpCenterSection": {
+      "title": "Help Center",
+      "description": "Browse tutorials, FAQs, and step-by-step guides available 24/7.",
+      "button": "Visit Help Center"
+    }
+  },
+  "contact": {
+    "badge": "Contact PharmaServ",
+    "title": "How Can PharmaServ Help You?",
+    "subtitle": "Send us your questions and our PharmaServ experts will reply within 1 business day.",
+    "form": {
+      "fullName": "Full name",
+      "phoneNumber": "Phone Number",
+      "email": "Email Address",
+      "companyName": "Company Name",
+      "message": "Tell us more about your needs.",
+      "sendButton": "Send Message",
+      "sending": "Sending...",
+      "successMessage": "Message sent successfully",
+      "errorMessage": "Message not sent"
+    }
+  },
+  "copilot": {
+    "hero": {
+      "heading": "Copilot",
+      "title": "The Modern Omnichannel Solution for Pharma Teams",
+      "description": "Orchestrate every step of omnichannel HCP engagement, from E-Detailing and marketing to sales and medical affairs, with Copilot's AI-powered automation, real-time insights, approved content delivery, and smarter call guidance. Help your medical representatives personalize conversations, stay compliant, and accelerate growth.",
+      "button": "Get a Demo"
+    },
+    "accelerate": {
+      "badge": "Copilot",
+      "title": "Accelerate Treatment and Product Adoption"
+    },
+    "medicalReps": {
+      "title": "For Medical Representatives",
+      "description": "PharmaServ Copilot Synchronizes Medical, Sales and Marketing engagement for desired outcome. Capture HCP trends and track KPIs in real time to help your reps close more calls with data-driven decisions.",
+      "features": [
+        "AI-Powered Scheduling and Check-Inst",
+        "Call Planning and Reports",
+        "Content Personalization and Compliance",
+        "On-Demand Performance Feedback"
+      ]
+    },
+    "managers": {
+      "title": "For Managers",
+      "description": "PharmaServ Copilot's dashboard gives managers real-time visibility into HCP behavioral lead indicators, marketing trends. Consolidate reports, track team performance, and spot coaching opportunities to strengthen sales execution.",
+      "features": [
+        "Account Visibility",
+        "Cross-Team Collaboration Hub",
+        "Summarize Reporting and Sentiment Analysis",
+        "Master Data Management"
+      ]
+    },
+    "whyCopilot": {
+      "badge": "Why Copilot",
+      "title": "The Measurable Impact of PharmaServ Copilot",
+      "subtitle": "Maximize time with real-time rep tracking, organized bulk uploads, and secure document storage. Easily schedule visits and create actionable plans to streamline coordination and boost team productivity."
+    },
+    "impacts": {
+      "eDetailing": {
+        "title": "Simplify E-Detailing and Maximize HCP Impact",
+        "description": "Simplify HCP call scheduling, content uploads, and feedback tracking. Equip your reps to focus on high-value conversations and grow HCP engagement with one streamlined platform."
+      },
+      "standardize": {
+        "title": "Standardize Rep Execution for Consistent Results",
+        "description": "Standardize call flows, approved content, and reporting across every rep. Maintain compliance and ensure consistent HCP messaging that supports brand growth."
+      },
+      "alignGoals": {
+        "title": "Align Managers and Reps to Hit Sales Goals",
+        "description": "Set clear call targets, align schedules, and monitor rep activity in real time. Help your team stay on track, close more calls, and grow sales."
+      },
+      "geoTracking": {
+        "title": "Verify Visits Instantly With Geo-Tracking",
+        "description": "PharmaServ Copilot's geo-fencing gives managers instant visibility into field activity. Verify visits in real time, address issues quickly, and keep reps focused on delivering high-quality HCP engagement."
+      },
+      "compliance": {
+        "title": "Boost Compliance and Engagement With Content Control",
+        "description": "PharmaServ Copilot enable reps to quickly upload, update, and share approved content across teams. Deliver impactful, compliant presentations that boost HCP engagement."
+      }
+    }
+  },
+  "fieldService": {
+    "hero": {
+      "heading": "Field Service Management",
+      "title": "Orchestrate Smarter Sales",
+      "description": "Streamline sales planning, call scheduling, and real-time reporting in one platform. PharmaServ's Field Service gives consumer health sales teams the visibility and insights to optimize performance and grow confidently.",
+      "button": "Get a Demo"
+    },
+    "aiAgents": {
+      "badge": "Field Service Management",
+      "title": "Build Powerful AI-Agents to Drive Sales"
+    },
+    "fieldStaff": {
+      "title": "For Field Staff",
+      "description": "PharmaServ Field Service Software helps to nurture sales success, from lead to loyalty capturing trends and real-time market insights.",
+      "features": [
+        "Smart Order Management",
+        "Real-Time Payment Tracking",
+        "Automated Discounts & Pricing Rules",
+        "Instant Product Updates"
+      ]
+    },
+    "managers": {
+      "title": "For Managers",
+      "description": "PharmaServ Field Service simplifies sales data report, driving greater personal accountability, equip your team to lead smarter coaching conversations, laser-focused target and goal setting for more wins all around.",
+      "features": [
+        "Integrated CRM and Sales Data",
+        "Live Field Force Tracking",
+        "AI-Powered Revenue Forecasting",
+        "Sync effortlessly with ERP systems"
+      ]
+    },
+    "whyFieldService": {
+      "badge": "Why Field Service Manager",
+      "title": "The Measurable Impact of PharmaServ Field Service",
+      "subtitle": "Optimize sales operations, simplify invoicing, and improve payment tracking. Empower your team with real-time insights that increase revenue, improve transparency, and strengthen customer relationships."
+    },
+    "impacts": {
+      "alignTeams": {
+        "title": "Align Teams and Hit Revenue Goals",
+        "description": "Give your sales team real-time data, streamline orders, and simplify receivables management. With AI-powered insights, your team stays aligned, exceeds targets, and grows revenue."
+      },
+      "cashFlow": {
+        "title": "Accelerate Cash Flow and Team Efficiency",
+        "description": "PharmaServ Field Service Software helps sales teams accelerate invoice-to-pay cycles, track field staff in real time, and unlock data-driven insights to boost cash flow and operational efficiency."
+      },
+      "aiScheduling": {
+        "title": "Simplify Field Operations With AI Scheduling",
+        "description": "PharmaServ's Field Service software helps your team gain valuable customer insights, streamline order management, and improve service efficiency. Simplify workflows, boost productivity, and align with business goals to achieve impactful results in Canada."
+      },
+      "revenueGrowth": {
+        "title": "Unlock Revenue Growth Opportunities",
+        "description": "Leverage detailed sales trends and AI-driven insights to set clear targets, motivate teams, and uncover new cross-sell opportunities. Make data-backed decisions and optimize pricing to boost conversions and accelerate revenue growth."
+      }
+    }
+  },
+  "pharmaSales": {
+    "hero": {
+      "heading": "Pharmaceutical Sales Software",
+      "title": "Pharma Sales Omnichannel Software to Simplify Field Operations",
+      "description": "Simplify field sales, improve team performance, and give Canadian pharma leaders real-time insights to drive revenue growth across every territory.",
+      "button": "Get a Demo"
+    },
+    "partners": {
+      "badge": "Our Partners",
+      "title": "Trusted by Industry Leading Stakeholders"
+    },
+    "features": {
+      "badge": "Features",
+      "title": "Pharma Sales Software to Boost Revenue and Productivity",
+      "subtitle": "Boost sales, streamline operations, and optimize your entire sales cycle with tools built for Canadian life sciences teams.",
+      "loginButton": "Login into a free account"
+    },
+    "impacts": {
+      "salesTrends": {
+        "title": "Unlock Actionable Insights from Sales Trends",
+        "description": "Track sales trends and gain real-time insights to optimize performance, adjust strategies, and improve market coverage."
+      },
+      "targetSetting": {
+        "title": "Build Stronger Sales Plans with Target Setting and Tracking",
+        "description": "Empower managers with real-time insights to set, track, and adjust targets, driving stronger sales performance and team productivity."
+      },
+      "dynamicDiscounts": {
+        "title": "Boost Cash Flow with Smart Dynamic Discounts",
+        "description": "Boost cash flow with PharmaServ's Dynamic Discounting, identifying early payments and reducing delays for stronger financial health."
+      },
+      "liveReports": {
+        "title": "View Live Sales Reports in Real-time",
+        "description": "Streamline your sales process with real-time reporting, visual price lists, and seamless ERP integration for smoother operations."
+      },
+      "receivables": {
+        "title": "Take Charge of Receivables and Reduce Debt",
+        "description": "Gain full visibility into trade receivables and make smarter financial decisions with PharmaServ's intuitive dashboard for effortless debt management."
+      },
+      "excelExport": {
+        "title": "Easily Export Sales Data to Excel",
+        "description": "Export sales data to Excel for custom reports, performance tracking, and easier team collaboration."
+      }
+    },
+    "whyPharmaServ": {
+      "badge": "Why PharmaServ",
+      "title": "Boost Sales Performance with PharmaServ Sales Software",
+      "benefits": [
+        {
+          "title": "Reach More HCPs and Expand Your Territory",
+          "description": "Open new sales opportunities with actionable insights from PharmaServ that help your team reach more HCPs, grow your customer base, and increase prescriptions."
+        },
+        {
+          "title": "Build Stronger Sales Plans and Increase Revenue",
+          "description": "Use real-time insights and targeting tools to build stronger sales plans, optimize rep activity, and increase revenue with PharmaServ."
+        },
+        {
+          "title": "Stay Ahead of Competitors and Grow Market Share",
+          "description": "Leverage real-time field insights and faster sales execution to outperform competitors, attract more HCPs, and grow market share."
+        }
+      ]
+    }
+  },
+  "Solutions": {
+    "moreSolutionsTag": "More Solutions",
+    "title": "Discover More Ways to Use PharmaServ",
+    "video1": {
+      "title": "AI-Powered E-Detailing to Boost Sales Performance",
+      "description": "Drive stronger HCP engagement with AI-powered E-Detailing that simplifies call planning, content delivery, and real-time insights to help reps close more calls."
+    },
+    "video2": {
+      "title": "CRM for Pharma Sales, HCP Tracking, and Customer Management",
+      "description": "PharmaServ's CRM centralizes customer interactions, sales tracking, and HCP coordination with AI-powered insights and seamless ERP integration."
+    }
+  },
+  "PharmaSalesAiTool": {
+    "hero": {
+      "heading": "Pharma Sales AI Tool",
+      "title": "AI Sales Platform to Accelerate Revenue",
+      "description": "Leverage AI-powered features to boost sales, streamline operations, and maximize pharma sales performance.",
+      "btnText": "Get a Demo"
+    },
+    "partners": {
+      "tag": "Our Partners",
+      "title": "Trusted by Industry Leading Stakeholders"
+    },
+    "features": {
+      "tag": "Features",
+      "title": "AI Sales Software to Drive Revenue Growth",
+      "description": "Use AI-powered insights to optimize targeting, qualify customers faster, personalize engagement, and close more deals across sales, marketing, and clinical teams."
+    },
+    "impactCards": {
+      "card1": {
+        "title": "Boost Revenue with AI-Powered Sales Acceleration",
+        "description": "Use AI-driven insights, automated lead scoring, and smart recommendations to prioritize high-value prospects, shorten sales cycles, and help your team close more HCP deals faster."
+      },
+      "card2": {
+        "title": "Use AI to Plan Pharma Events That Drive Engagement",
+        "description": "Leverage event planning with AI-powered insights that recommend the best venues, timing, and target the right HCP audience, helping improve engagement, and boost sales outcomes."
+      },
+      "card3": {
+        "title": "Qualify High-Value Prospects Faster with AI",
+        "description": "Streamline onboarding with AI-driven qualification that identifies high-potential prospects earlier and accelerates your path to revenue."
+      },
+      "loginBtn": "Login into a free account"
+    },
+    "whyPharmaServ": {
+      "tag": "Why PharmaServ",
+      "title": "Top Pharma Teams Choose PharmaServ AI Sales Software",
+      "features": [
+        {
+          "title": "Expand Market Reach with AI-Powered Sales Insights",
+          "description": "Use AI to uncover new opportunities from market data, competitor analysis, and customer behavior, helping your sales team grow territory, target the right HCPs, and stay ahead of the competition."
+        },
+        {
+          "title": "Optimize Sales Strategy with Real-Time AI Analytics",
+          "description": "Access real-time analytics and AI-powered insights to guide strategic sales planning, optimize campaigns, improve targeting, and increase revenue performance."
+        },
+        {
+          "title": "Forecast Growth Opportunities with Predictive Analytics",
+          "description": "Use predictive analytics to forecast sales trends, identify growth opportunities, and strengthen your competitive advantage in pharma sales."
+        }
+      ]
+    }
+  },
+  "edetailing": {
+    "hero": {
+      "heading": "Pharmaceutical E-Detailing",
+      "title": "Medical E-Detailing Software to Boost HCP Engagement",
+      "description": "Deliver interactive, compliant presentations to healthcare professionals in-person, virtually, or remotely. Equip your reps to improve HCP engagement, message retention, and prescribing confidence.",
+      "btnText": "Get a Demo"
+    },
+    "partners": {
+      "label": "Our Partners",
+      "title": "Trusted by Industry Leading Stakeholders",
+      "logoAlt": "pharmaServ clients logo"
+    },
+    "features": {
+      "label": "Features",
+      "title": "Medical E-Detailing to Optimize Sales Visits",
+      "description": "Simplify rep workflows, automate scheduling, track visits in real-time, verify location, and increase HCP engagement with automated, compliant detailing.",
+      "card1": {
+        "title": "Streamline HCP and Account Management",
+        "description": "Help reps engage HCPs faster with centralized content, quick uploads, smart integrations, and real-time tracking. Spend less time on admin and more time in front of prescribers.",
+        "image": "https://imgur.com/YwW0sWu.jpeg"
+      },
+      "card2": {
+        "title": "Plan, Monitor & Optimize Pharma Events",
+        "description": "Organize high-impact meetings, manage schedules, and track participation. Reduce no-shows, focus on top accounts, and drive stronger event ROI.",
+        "image": "https://imgur.com/VqEPifm.jpeg"
+      },
+      "card3": {
+        "title": "Track Field Activity in Real Time",
+        "description": "Give managers full visibility into rep activity, optimize routes, and close coverage gaps. Avoid missed visits, improve performance, and strengthen accountability.",
+        "image": "https://imgur.com/RCfcMef.jpeg"
+      },
+      "card4": {
+        "title": "Verify Field Visits with Geo-Fencing",
+        "description": "Automatically confirm rep check-ins using real-time geo-fencing. Eliminate manual reporting, improve compliance, and protect territory coverage.",
+        "image": "https://imgur.com/hVt7GiU.jpeg"
+      },
+      "card5": {
+        "title": "Automate E-Detailing Workflows",
+        "description": "Automate daily tasks, update content instantly, and keep reps selling. Free up your sales team to focus on selling and close more calls every day.",
+        "image": "https://imgur.com/8wEJiu3.jpeg"
+      },
+      "cta": "Login into a free account"
+    },
+    "why": {
+      "label": "Why PharmaServ",
+      "title": "Increase HCP Engagement with PharmaServ Medical eDetailing Software",
+      "card1": {
+        "title": "Know Exactly Who to Target Next",
+        "description": "Use real-time e-detailing HCP and HCO analytics to improve targeting, optimize campaigns, and make faster marketing decisions that drive growth."
+      },
+      "card2": {
+        "title": "Keep Reps Selling Even Offline Without Connectivity Gaps",
+        "description": "PharmaServ works offline, allowing reps to present, engage, and close deals even with unstable or no internet, so selling never stops."
+      },
+      "card3": {
+        "title": "Accelerate Onboarding, Track KPIs, and Hit Sales Goals Sooner",
+        "description": "PharmaServ e-detailing speeds up onboarding, tracks KPIs in real time, and optimizes visits to hit revenue targets faster."
+      }
+    }
+  },
+  "CRM": {
+    "hero": {
+      "heading": "Pharmaceutical CRM",
+      "title": "Pharma CRM to Maximize HCP Growth",
+      "description": "Gain full visibility into HCP activity, simplify call planning, automate follow-ups, and help your sales team close more prescriptions faster.",
+      "btnText": "Get a Demo"
+    },
+    "partners": {
+      "label": "Our Partners",
+      "heading": "Trusted by Industry Leading Stakeholders",
+      "logoAlt": "PharmaServ clients logo"
+    },
+    "features": {
+      "label": "Features",
+      "heading": "Pharma CRM to Boost Sales Efficiency and Customer Relationships",
+      "description": "Centralize customer insights, automate workflows, track orders, streamline team communication, and optimize field visits to drive sales performance.",
+      "loginBtn": "Login into a free account"
+    },
+    "impacts": {
+      "impact1": {
+        "title": "Understand Your Customers and Qualify Leads Faster",
+        "description": "PharmaServ CRM qualifies prospects automatically, tracks customer pain points, and gives reps full context for effective follow-ups and stronger future sales opportunities."
+      },
+      "impact2": {
+        "title": "Centralize Order History and Customer Data",
+        "description": "Track past orders, manage customer records, and access key buying behavior insights. Help your sales team meet healthcare professional needs and secure repeat orders."
+      },
+      "impact3": {
+        "title": "Simplify Team Communication and Field Collaboration",
+        "description": "Enable real-time feedback and direct communication between managers and reps. Improve alignment, adapt quickly to changes, and keep field execution fully on track."
+      },
+      "impact4": {
+        "title": "Plan Smarter Visits and Optimize Field Routines",
+        "description": "Use CRM insights to schedule optimized visit routes, prioritize key accounts, and make data-driven decisions that reduce missed visits and maximize healthcare professional coverage."
+      },
+      "impact5": {
+        "title": "Organize Sales Workflows and Reduce Admin Work",
+        "description": "PharmaServ CRM streamlines sales tasks with workflow planners that reduce decision fatigue, automate daily work, and keep teams focused on selling activities."
+      },
+      "impact6": {
+        "title": "Engage Healthcare Professionals with Smarter CRM Insights",
+        "description": "Equip your sales team with performance analytics and interactive CRM tools that improve customer engagement, strengthen relationships, and accelerate sales growth."
+      }
+    },
+    "why": {
+      "label": "Why PharmaServ",
+      "heading": "Boost Compliance, Cut Costs, and Grow Sales With PharmaServ Pharma CRM"
+    },
+    "whyContent": {
+      "why1": {
+        "title": "Foster Stronger Customer Relationships",
+        "description": "PharmaServ CRM delivers a complete view of customer needs, preferences, and engagement history, driving stronger HCP engagement and repeat sales."
+      },
+      "why2": {
+        "title": "Ensure Data Privacy and Regulatory Compliance",
+        "description": "With built-in audit trails, Pharmaserv CRM ensures full regulatory compliance, safeguarding customer data and minimizing legal exposure and protecting patient trust."
+      },
+      "why3": {
+        "title": "Accelerate Your Digital Transformation",
+        "description": "Leverage AI-powered insights and advanced analytics to optimize sales and marketing efforts accelerating sales growth with smarter technology in the pharmaceutical industry."
+      },
+      "why4": {
+        "title": "Cut Operational Costs and Boost Efficiency",
+        "description": "Pharmaserv CRM automate recruitment and sales workflows to cut manual work, reduce expenses, and free your team to sell more and grow faster."
+      }
+    }
+  },
+  "ConversationIntelligence": {
+    "hero": {
+      "heading": "Conversation Intelligence",
+      "title": "Conversation Intelligence to Drive Smarter Pharma Sales",
+      "description": "Analyze sales conversations in real time to deliver actionable insights that speed up onboarding, improve rep performance, and help your team close more deals faster.",
+      "btnText": "Get a Demo"
+    },
+    "partners": {
+      "tag": "Our Partners",
+      "title": "Trusted by Industry Leading Stakeholders"
+    },
+    "features": {
+      "tag": "Features",
+      "title": "Conversation Intelligence to Convert Every Call Into Revenue",
+      "description": "Leverage real-time conversation insights to optimize coaching, improve rep targeting, accelerate onboarding, and forecast sales growth with actionable data."
+    },
+    "impactCards": {
+      "card1": {
+        "title": "Improve Forecast Accuracy with Smarter Deal Reviews",
+        "description": "Analyze call data and account activity to refine sales forecasts, prioritize accounts, and hit revenue targets faster."
+      },
+      "card2": {
+        "title": "Boost Rep Productivity with Real-Time Coaching",
+        "description": "Guide reps with real-time call insights and actionable coaching to strengthen conversations and increase prescriptions."
+      },
+      "card3": {
+        "title": "Maximize HCP Engagement with Data-Driven Interactions",
+        "description": "Monitor rep activity, ensure consistent messaging, and increase HCP engagement that supports revenue growth."
+      },
+      "loginBtn": "Login into a free account"
+    },
+    "whyPharmaServ": {
+      "tag": "Why PharmaServ",
+      "title": "Turn Sales Conversations Into Revenue with PharmaServ Conversation Intelligence",
+      "features": [
+        {
+          "title": "Unlock HCP Insights to Drive More Sales",
+          "description": "Leverage call data and meeting notes to identify HCP needs, personalize messaging, and guide reps to close more deals."
+        },
+        {
+          "title": "Optimize Sales Strategy with Real-Time Analytics",
+          "description": "Analyze conversation and field data to uncover trends, refine targeting, adjust sales tactics, and boost rep productivity."
+        },
+        {
+          "title": "Verify Rep Activity with Real-Time Geo-Tracking",
+          "description": "Use location intelligence to confirm visit check-ins, monitor rep coverage, and ensure full accountability in the field."
+        },
+        {
+          "title": "Automate HCP Follow-Ups and Communication",
+          "description": "Automate personalized follow-ups, streamline communication, and keep reps aligned with evolving HCP needs."
+        }
+      ]
+    }
+  },
+  "Register": {
+    "title": "Grow Pharma Revenue with PharmaServ's Omnichannel AI Platform",
+    "description": "Unify Pharma Teams with AI-powered automation, multichannel engagement, real-time insights, and streamlined field execution, all in one platform.",
+    "Empower": "Empower Your Entire Workforce",
+    "IAgree": "I agree to the",
+    "PrivacyPolicy": "Privacy Policy",
+    "GetStarted": "Get Started",
+    "AlreadyHaveAccount": "Already have an account?",
+    "Login": "LogIn",
+    "RightsReserved": "All rights reserved",
+    "Submitting": "Submitting",
+    "form": {
+      "fullName": "Full name",
+      "companyName": "Company name",
+      "email": "Company email",
+      "referralCode": "Referral code (Optional)",
+      "YourCompanyEmail": "Your Company Email"
+    },
+    "RegistrationSuccessful": "Registration successful",
+    "RegistrationFailed": "Registration failed",
+    "EmailError": "Please enter a valid company email",
+    "TrustedBy": "Trusted by",
+    "SeeHowItWorks": "See how it works",
+    "WatchProductDemo": "Watch the Product Demo",
+    "SeeHowPharmaServWorks": "Join the leading Pharma brands already using PharmaServ's agentic AI platform to simplify Healthcare Practitioners Engagement, Streamline Field Operations, and accelerate brand adoption across territories. Watch the short demo to see it in action.",
+    "WhatYoullSee": "Experience how easily AI transforms your workflow:",
+    "SimpleWorkflows": "Summarizing call reports using AI",
+    "RealTimeTracking": "Real-time tracking of rep routes and check-ins",
+    "OrganizedManagement": "Organized management of HCPs, HCOs, and territories",
+    "ToolsForSetting": "Tools for setting and monitoring product and sales goals",
+    "InsightsIntoBrandAdoption": "Insights into brand adoption and performance metrics",
+    "QuickExport": "Quick export of analytics and reports for decision-making",
+    "Testimonial": "Testimonial",
+    "ImpressiveSoftware": "Impressive software tool for healthcare brands, with an amazing team and strong industry insights. Keep up the great work.",
+    "FillOut": "Fill out the form to watch the full video on demand",
+    "WatchNow": "Watch now",
+    "WatchTheDemo": "Watch the Demo",
+    "ThanksForYourInterest": "Thanks for your interest in PharmaServ and new ways to accelerate and automate your workflows, unburden your service teams, and elevate your enterprise.",
+    "SignUpAndWatchNow": "Sign Up and Watch now",
+    "SkipSignUpAndWatchNow": "Skip Sign Up and Watch Now",
+    "OR": "OR",
+    "LimitedDemoSlotAvailable": "Limited Demo Slot Available",
+    "SecureYourSpot": "Secure Your Spot",
+    "ScheduleACall": "Schedule a Call"
+  }
+}

@@ -1,0 +1,28 @@
+name: Deploy to cPanel (Dev, Staging, Main).
+on:
+  push:
+    branches:
+      - dev
+      - demo
+      - staging
+      - main
+
+jobs:
+  Deploy-to-vercel:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository (Optionals)
+        uses: actions/checkout@v4
+
+      - name: Trigger Vercel Deploy Hook
+        run: |
+          if [[ "${{ github.ref }}" == "refs/heads/dev" ]]; then
+            curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_mx5nCVxnpMa6YZkxr8Jo4yKSdIqq/qTbldyTPTQ"
+          elif [[ "${{ github.ref }}" == "refs/heads/staging" ]]; then
+            curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_mx5nCVxnpMa6YZkxr8Jo4yKSdIqq/IeN0Z1q1UO"
+          elif [[ "${{ github.ref }}" == "refs/heads/demo" ]]; then
+            curl -X POST "${{ secrets.DEMO_VERCEL_DEPLOY_HOOK }}"
+          elif [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
+            curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_mx5nCVxnpMa6YZkxr8Jo4yKSdIqq/3ZszBggc4w"
+          fi

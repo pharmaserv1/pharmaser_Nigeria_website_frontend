@@ -1,0 +1,22 @@
+{
+  // Enable format on save for this project
+  "editor.formatOnSave": true,
+
+  // Set Prettier as the default formatter for this project
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Optionally, you can configure specific languages (e.g., JavaScript, HTML, etc.)
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // Optional Prettier-specific settings (if you want to override Prettier's defaults)
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all"
+}

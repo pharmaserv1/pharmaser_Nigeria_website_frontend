@@ -1,0 +1,761 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Assistant IA Omnicanal pour Autonomiser les Ventes, le Marketing et la Médecine",
+      "subtitle": "Améliorez la Productivité, Automatisez le Flux de Travail, Personnalisez l'Engagement et les Insights Comportementaux",
+      "cta": "Regarder une démo",
+      "register": "S'inscrire"
+    },
+    "solutions": {
+      "badge": "Nos Solutions",
+      "title": "Explorez les Solutions Omnicanales Alimentées par l'IA de PharmaServ",
+      "subTitle": "par l'IA de PharmaServ",
+      "description": "PharmaServ orchestre les opérations sur le terrain, les affaires médicales et l'engagement des HCP avec l'automatisation alimentée par l'IA, la communication multicanal et les insights en temps réel. Simplifiez les processus complexes, maximisez la productivité des représentants médicaux, assurez la conformité et stimulez la croissance de la marque avec une plateforme unifiée."
+    },
+    "trustedBy": {
+      "title": "Approuvé par"
+    },
+    "whyPharmaServ": {
+      "badge": "Pourquoi PharmaServ ?",
+      "title": "Tout ce dont vous avez besoin pour augmenter l'engagement"
+    },
+    "clients": {
+      "badge": "Nos Clients",
+      "title": "Approuvé par les Leaders Pharmaceutiques et Innovateurs en Sciences de la Vie du Canada",
+      "description": "Rejoignez les équipes pharmaceutiques et biotechnologiques de premier plan qui font confiance à PharmaServ pour augmenter l'engagement des HCP et fournir des résultats de vente basés sur les données."
+    }
+  },
+  "Header": {
+    "home": "Accueil",
+    "products": "Produits",
+    "useCase": "Cas d'Usage",
+    "contactUs": "Contactez-nous",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "productsDropdown": {
+      "copilot": "Copilot",
+      "fieldServiceManagement": "Gestion des Services sur le Terrain"
+    },
+    "useCaseDropdown": {
+      "pharmaSalesSoftware": "Logiciel de Vente Pharmaceutique",
+      "pharmaSalesAiTool": "Outil IA de Vente Pharmaceutique",
+      "eDetailing": "E-Détail Pharmaceutique",
+      "crm": "CRM Pharmaceutique",
+      "conversationIntelligence": "Intelligence Conversationnelle",
+      "aiScheduling": "Assistant de Planification IA"
+    },
+    "loginDropdown": {
+      "pharmaservCopilot": "Pharmaserv Copilot",
+      "fieldServiceManagement": "Gestion des Services sur le Terrain"
+    }
+  },
+  "stackCards": {
+    "card1": {
+      "title": "Planifier et Exécuter l'Engagement HCP avec des Outils de Gestion d'Événements et de Campagnes",
+      "description": "Programmer des réunions, organiser des événements, lancer des campagnes multicanaux et suivre chaque interaction en temps réel. Augmentez l'engagement tout en restant entièrement conforme."
+    },
+    "card2": {
+      "title": "Plateforme de Gestion de Terrain Alimentée par IA pour Rationaliser l'Efficacité des Représentants Médicaux",
+      "description": "Planifiez les appels quotidiens plus rapidement, ciblez les HCP de haute valeur et automatisez la planification pour augmenter la productivité et assurer une conformité totale, le tout dans une plateforme intuitive."
+    },
+    "card3": {
+      "title": "E-Détailing Médical pour Stimuler l'Engagement HCP",
+      "description": "Équipez les représentants avec du contenu conforme et basé sur les données pour chaque conversation. Suivez les performances en temps réel et augmentez la productivité avec les flux de travail E-Détailing."
+    },
+    "card4": {
+      "title": "Suivi GPS en Temps Réel pour la Précision des Visites de Représentants",
+      "description": "Vérifiez le mouvement des représentants avec le géo-fencing GPS intégré. Assurez la responsabilité, maintenez la conformité et suivez les visites en temps réel pour une visibilité opérationnelle complète."
+    },
+    "card5": {
+      "title": "Outils de Communication Prospect pour Augmenter les Conversions",
+      "description": "Permettez aux représentants d'avoir des rappels opportuns, du contenu approuvé et des points de contact automatisés pour rester présent à l'esprit et stimuler un engagement HCP plus significatif."
+    },
+    "card6": {
+      "title": "Analyses de Vente de Terrain pour Guider une Stratégie Plus Intelligente et Identifier les Opportunités",
+      "description": "Débloquez des analyses d'insights exploitables en temps réel. Repérez les tendances de performance, identifiez les opportunités de croissance et optimisez la stratégie territoriale avec des données qui génèrent du ROI."
+    }
+  },
+  "solutionsSection": {
+    "copilot": {
+      "number": "01",
+      "title": "PharmaServ Copilot :",
+      "description": "Obtenez des insights de performance en temps réel, simplifiez les rapports, restez concentré et productif, travaillez plus intelligemment et plus rapidement, avec un engagement renforcé.",
+      "features": {
+        "scheduleMeetings": "Planifier et suivre les réunions",
+        "planEvents": "Planifier des événements et des campagnes",
+        "hcpInsights": "Voir les insights personnalisés HCP et HCO",
+        "conductMeetings": "Conduire des réunions physiques ou E-Detailing"
+      },
+      "learnMore": "En savoir plus"
+    },
+    "fieldService": {
+      "number": "02",
+      "title": "Plateforme de Service Terrain :",
+      "description": "Les Représentants Commerciaux peuvent maintenant conclure plus d'appels et augmenter leurs gains avec la Plateforme de Service Terrain alimentée par IA :",
+      "features": {
+        "manageProduct": "Gérer le produit",
+        "trackOrders": "Suivre les commandes en temps réel",
+        "prioritizeLeads": "Prioriser et qualifier les prospects",
+        "scheduleVisits": "Planifier et optimiser les visites"
+      },
+      "learnMore": "En savoir plus"
+    },
+    "alt": {
+      "copilotFlex": "Copilot Flex",
+      "arrowRight": "flèche droite"
+    }
+  },
+  "hcpEngagement": {
+    "title": "Stimuler l'Engagement HCP et Générer Plus de Conversions Grâce au Détailing Visuel",
+    "description": "Donnez à vos représentants médicaux des outils E-Détailing faciles à utiliser qui améliorent la compréhension des produits et rationalisent la narration visuelle. Avec Pharmaserv, votre équipe de terrain délivre un message cohérent et percutant qui renforce la confiance et l'advocacy des professionnels de la santé.",
+    "getDemo": "Obtenir une Démo",
+    "alt": {
+      "hcpEngagement": "engagement hcp"
+    }
+  },
+  "counterSection": {
+    "stats": {
+      "agents": "Agents",
+      "usersWorldwide": "Utilisateurs dans le monde",
+      "integrations": "Intégration avec des partenaires technologiques"
+    }
+  },
+  "testimonials": {
+    "badge": "Témoignages",
+    "title": "Écoutez les Leaders Pharma et Sciences de la Vie du Canada",
+    "subtitle": "Découvrez comment PharmaServ a transformé l'engagement HCP et la productivité pour les meilleures équipes de sciences de la vie du Canada.",
+    "testimonialCards": {
+      "card1": {
+        "quote": "La personnalisation à grande échelle a rendu mon MSR plus proactif et l'exécution des tâches quotidiennes beaucoup plus facile.",
+        "name": "Mme Ijeoma",
+        "position": "Directrice Marketing & Ventes",
+        "company": "- Grinta Pharma"
+      },
+      "card2": {
+        "quote": "Outil logiciel impressionnant pour les marques de soins de santé, avec une équipe formidable et de solides insights sectoriels. Continuez votre excellent travail.",
+        "name": "Mohamed Attye",
+        "position": "PDG - Global Care",
+        "company": "Distribution"
+      },
+      "card3": {
+        "quote": "Cet outil est un meilleur guide pour notre entreprise. Cela nous aide à bien planifier nos visites et sert d'aide-mémoire lorsque l'on oublie le nom d'un prospect déjà inscrit. Simple et facile à utiliser.",
+        "name": "Justin Biaye",
+        "position": "PROMOTION MEDICALE DU SENEGAL"
+      },
+      "card4": {
+        "quote": "Cette application est à la fois pratique et efficace et facilite grandement la collaboration avec les professionnels de santé. Bravo PharmaServ!",
+        "name": "Aliou Ndiaye",
+        "position": "PROMOTION MEDICALE DU SENEGAL"
+      }
+    },
+    "ctaText": "Commencez Votre Démo et Voyez les Résultats par Vous-même",
+    "getDemo": "Obtenir une Démo",
+    "alt": {
+      "testimonialImage": "témoignage",
+      "quote": "citation"
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Découvrez Comment PharmaServ Peut Aider Votre Équipe",
+    "questions": [
+      {
+        "title": "Pour qui PharmaServ est-il conçu ?",
+        "description": [
+          "PharmaServ est une plateforme logicielle intégrée mobile et web conçue pour les entreprises pharmaceutiques au Canada. Elle automatise les processus de vente, de marketing et de détailing médical grâce à deux produits principaux : Copilot et le logiciel Field Service.",
+          "La solution e-detailing PharmaServ Copilot rationalise le processus de détailing médical, permettant aux équipes de vente et aux représentants médicaux d'engager efficacement les professionnels de la santé et de promouvoir les produits pharmaceutiques.",
+          "Le logiciel Field Service optimise les opérations de vente en temps réel telles que la génération de commandes, le suivi et la gestion de territoire. Les managers peuvent inviter les membres de l'équipe, définir des KPI et surveiller les flux de travail quotidiens pour assurer une performance e-detailing efficace et une exécution des ventes cohérente dans l'ensemble."
+        ]
+      },
+      {
+        "title": "Qu'est-ce que la plateforme e-detailing de PharmaServ et comment améliore-t-elle l'engagement HCP ?",
+        "description": [
+          "La plateforme e-detailing de PharmaServ soutient les représentants médicaux et les entreprises pharma dans la livraison de présentations percutantes. Elle améliore l'engagement HCP en permettant le téléchargement de contenu en masse, en fournissant des insights en temps réel, et en aidant les équipes de vente à gérer les données et suivre les performances, boostant ultimement l'efficacité et la qualité des interactions."
+        ]
+      },
+      {
+        "title": "Comment le logiciel de PharmaServ peut-il aider à gérer les représentants médicaux ?",
+        "description": [
+          "Le logiciel de gestion de service terrain de PharmaServ aide à gérer les représentants médicaux grâce au géo-fencing GPS en temps réel, au suivi des KPI et aux outils de planification intelligente. Ces fonctionnalités permettent aux managers de surveiller les activités, d'optimiser les opérations de terrain et d'assurer une performance de vente efficace et un engagement client."
+        ]
+      },
+      {
+        "title": "Quels avantages PharmaServ offre-t-il pour les présentations physiques et e-detailing ?",
+        "description": [
+          "Les solutions de détailing à distance de PharmaServ offrent une suite complète d'outils pour autonomiser vos représentants médicaux avec des présentations e-detailing, facilitant la livraison de contenu engageant et dynamique. Avec nos éléments interactifs, tels que des vidéos de démonstration et la capture de données en temps réel, vos représentants peuvent maintenir une communication fluide et construire des relations solides avec les professionnels de la santé, même à distance. Cela garantit que votre équipe livre constamment des expériences e-detailing de haute qualité, améliorant l'engagement et les résultats et la performance e-detailing à travers multiples canaux. En misant sur ces fonctionnalités, votre entreprise pharma peut améliorer l'efficacité, augmenter les ventes pharmaceutiques et optimiser les interactions client indépendamment de la localisation. Nos offres de service fournissent des avantages qui continuent de croître à mesure que votre entreprise évolue. Vous pouvez faire confiance que les avantages sont inépuisables."
+        ]
+      },
+      {
+        "title": "Comment PharmaServ soutient-il le suivi des KPI et le reporting de données pour les entreprises pharma ?",
+        "description": [
+          "Le système de surveillance KPI dynamique de PharmaServ fournit des données et insights en temps réel sur la performance des représentants médicaux, permettant aux entreprises pharma de prendre des décisions basées sur les données et d'optimiser les opérations de terrain."
+        ]
+      },
+      {
+        "title": "Quels types de contenu peuvent être téléchargés sur la plateforme PharmaServ pour le détailing médical ?",
+        "description": [
+          "La plateforme de PharmaServ améliore l'efficacité en permettant le téléchargement en masse de contenu e-detailing, tel que des présentations de produits, des infographies et d'autres matériaux marketing essentiels. Cela permet aux représentants médicaux de partager des informations importantes avec les professionnels de la santé sans effort, s'assurant qu'ils sont bien équipés pour les réunions et interactions. PharmaServ autonomise les représentants pour améliorer la communication, augmenter l'engagement client et livrer des présentations e-detailing plus percutantes en facilitant la gestion et distribution de contenu facile. C'est une victoire pour vous, et nous faisons que cela arrive."
+        ]
+      },
+      {
+        "title": "Comment PharmaServ améliore-t-il la communication au sein des équipes de vente et avec les professionnels de la santé ?",
+        "description": [
+          "PharmaServ améliore la communication en fournissant des outils puissants pour le reporting de données en temps réel et des canaux de communication centralisés et uniformes. Cela garantit que les équipes de vente et les professionnels de la santé reçoivent des informations précises et à jour, permettant une collaboration fluide, une prise de décision plus rapide et un engagement plus fort tout au long du processus de vente et de détailing."
+        ]
+      },
+      {
+        "title": "Quels sont les avantages clés d'utiliser Pharmaserv pour l'automatisation des ventes pharma ?",
+        "description": [
+          "PharmaServ fournit des outils d'automatisation de vente puissants tels que la génération de commandes en temps réel, des listes de prix numériques et une intégration transparente avec les systèmes ERP. Ces fonctionnalités améliorent l'efficacité opérationnelle, réduisent les tâches manuelles et rationalisent les processus de vente pharmaceutiques à travers multiples plateformes, conduisant à une exécution de vente plus rapide, plus intelligente et plus précise."
+        ]
+      },
+      {
+        "title": "Quelles mesures de sécurité Pharmaserv implémente-t-il ?",
+        "description": [
+          "PharmaServ assure une sécurité robuste en appliquant régulièrement des correctifs logiciels et de système d'exploitation pour maintenir les versions les plus récentes et les plus sécurisées. Ses solutions e-detailing basées sur le cloud appliquent des protocoles de mot de passe forts et restreignent l'accès aux utilisateurs autorisés uniquement, protégeant l'intégrité du système et protégeant les données pharmaceutiques sensibles contre l'accès non autorisé."
+        ]
+      }
+    ],
+    "contactText": "Pas sûr quelles fonctionnalités conviennent à votre équipe ? Contactez-nous et nous vous guiderons.",
+    "contactButton": "Nous Contacter",
+    "alt": {
+      "plusIcon": "icône plus"
+    }
+  },
+  "platformOverview": {
+    "badge": "Aperçu de la Plateforme",
+    "hcp": {
+      "title": "Simplifier les Engagements HCP. Stimuler l'adoption des traitements.",
+      "description": "PharmaServ aide les équipes d'affaires médicales pharma et santé à atteindre les prescripteurs difficiles à trouver et à développer l'adoption de la marque."
+    },
+    "fieldSales": {
+      "title": "Simplifier les Ventes Terrain. Commencer à Stimuler la Croissance.",
+      "description": "PharmaServ aide les équipes de vente pharma et santé à atteindre les clients difficiles à trouver et à développer l'adoption de la marque avec un ciblage plus intelligent."
+    },
+    "loginButton": "Se connecter à un compte gratuit"
+  },
+  "footer": {
+    "description": "PharmaServ aide les équipes de vente pharma et sciences de la vie à augmenter la productivité avec des flux de travail alimentés par IA, des insights HCP en temps réel, et un engagement conforme.",
+    "descriptionContinued": "Stimulez plus d'appels, développez les prescriptions, et faites que chaque connexion compte.",
+    "contact": {
+      "title": "Contact",
+      "phone": "+12369785171",
+      "email": "info@pharmaserv.co",
+      "address": "4178 Dawson Street Burnaby\nColombie-Britannique, Canada.\nV5C 0A1"
+    },
+    "services": {
+      "title": "Services",
+      "copilot": "Copilot",
+      "fieldService": "Service Terrain",
+      "aboutUs": "À propos de nous",
+      "resources": "Ressources"
+    },
+    "policy": {
+      "title": "Politique",
+      "privacyPolicy": "Politique de Confidentialité",
+      "riskAssessmentPolicy": "Politique d'Évaluation des Risques",
+      "acceptableUsePolicy": "Politique d'Utilisation Acceptable",
+      "cookiePolicy": "Politique des Cookies"
+    },
+    "copyright": "Copyright ©2025 PharmaServ",
+    "alt": {
+      "pharmaservLogo": "logo pharmaserv",
+      "socialIcon": "svg"
+    }
+  },
+  "helpCenter": {
+    "badge": "Nous sommes là pour vous aider",
+    "title": "Centre d'aide PharmaServ",
+    "description": "Découvrez une multitude de ressources et d'assistance personnalisée conçues pour vous accompagner dans votre parcours. Le Centre d'aide PharmaServ est votre destination de référence pour obtenir des réponses et un coup de main chaque fois que vous en avez besoin.",
+    "customerService": {
+      "title": "Service Client",
+      "description": "Obtenez de l'aide personnalisée d'un spécialiste PharmaServ. Nous vous guiderons vers la bonne solution.",
+      "button": "Parler à un Expert"
+    },
+    "helpCenterSection": {
+      "title": "Centre d'aide",
+      "description": "Consultez les tutoriels, FAQ et guides étape par étape disponibles 24h/24 et 7j/7.",
+      "button": "Visiter le Centre d'aide"
+    }
+  },
+  "contact": {
+    "badge": "Contacter PharmaServ",
+    "title": "Comment PharmaServ peut-il vous aider ?",
+    "subtitle": "Envoyez-nous vos questions et nos experts PharmaServ vous répondront dans un délai d'un jour ouvrable.",
+    "form": {
+      "fullName": "Nom et prénom",
+      "phoneNumber": "Numéro de téléphone",
+      "email": "E-mail de l'entreprise",
+      "companyName": "Nom de l'entreprise",
+      "message": "Parlez-nous davantage de vos besoins.",
+      "sendButton": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "successMessage": "Message envoyé avec succès",
+      "errorMessage": "Message non envoyé"
+    }
+  },
+  "copilot": {
+    "hero": {
+      "heading": "Copilot",
+      "title": "La Solution Omnicanale Moderne pour les Équipes Pharmaceutiques",
+      "description": "Orchestrez chaque étape de l'engagement omnicanal des professionnels de santé, du E-Detailing et du marketing aux ventes et aux affaires médicales, avec l'automatisation alimentée par l'IA de Copilot, les insights en temps réel, la livraison de contenu approuvé et des conseils d'appels plus intelligents. Aidez vos représentants médicaux à personnaliser les conversations, rester conformes et accélérer la croissance.",
+      "button": "Obtenir une Démo"
+    },
+    "accelerate": {
+      "badge": "Copilot",
+      "title": "Accélérer l'Adoption des Traitements et Produits"
+    },
+    "medicalReps": {
+      "title": "Pour les Représentants Médicaux",
+      "description": "PharmaServ Copilot synchronise l'engagement médical, commercial et marketing pour un résultat souhaité. Capturez les tendances des professionnels de santé et suivez les KPI en temps réel pour aider vos représentants à conclure plus d'appels avec des décisions basées sur les données.",
+      "features": [
+        "Planification et Enregistrement Alimentés par l'IA",
+        "Planification d'Appels et Rapports",
+        "Personnalisation de Contenu et Conformité",
+        "Retour de Performance à la Demande"
+      ]
+    },
+    "managers": {
+      "title": "Pour les Managers",
+      "description": "Le tableau de bord de PharmaServ Copilot offre aux managers une visibilité en temps réel sur les indicateurs comportementaux des professionnels de santé et les tendances marketing. Consolidez les rapports, suivez les performances de l'équipe et identifiez les opportunités de coaching pour renforcer l'exécution des ventes.",
+      "features": [
+        "Visibilité des Comptes",
+        "Hub de Collaboration Inter-Équipes",
+        "Résumé des Rapports et Analyse de Sentiment",
+        "Gestion des Données Maîtresses"
+      ]
+    },
+    "whyCopilot": {
+      "badge": "Pourquoi Copilot",
+      "title": "L'Impact Mesurable de PharmaServ Copilot",
+      "subtitle": "Maximisez le temps avec le suivi des représentants en temps réel, les téléchargements groupés organisés et le stockage sécurisé des documents. Planifiez facilement les visites et créez des plans d'action pour rationaliser la coordination et augmenter la productivité de l'équipe."
+    },
+    "impacts": {
+      "eDetailing": {
+        "title": "Simplifier le E-Detailing et Maximiser l'Impact sur les Professionnels de Santé",
+        "description": "Simplifiez la planification des appels aux professionnels de santé, les téléchargements de contenu et le suivi des retours. Équipez vos représentants pour se concentrer sur les conversations à forte valeur ajoutée et développer l'engagement des professionnels de santé avec une plateforme rationalisée."
+      },
+      "standardize": {
+        "title": "Standardiser l'Exécution des Représentants pour des Résultats Cohérents",
+        "description": "Standardisez les flux d'appels, le contenu approuvé et les rapports pour chaque représentant. Maintenez la conformité et assurez une messagerie cohérente aux professionnels de santé qui soutient la croissance de la marque."
+      },
+      "alignGoals": {
+        "title": "Aligner les Managers et les Représentants pour Atteindre les Objectifs de Vente",
+        "description": "Fixez des objectifs d'appels clairs, alignez les horaires et surveillez l'activité des représentants en temps réel. Aidez votre équipe à rester sur la bonne voie, conclure plus d'appels et augmenter les ventes."
+      },
+      "geoTracking": {
+        "title": "Vérifier les Visites Instantanément avec le Géo-Tracking",
+        "description": "Le géo-fencing de PharmaServ Copilot offre aux managers une visibilité instantanée sur l'activité de terrain. Vérifiez les visites en temps réel, résolvez rapidement les problèmes et gardez les représentants concentrés sur la fourniture d'un engagement de qualité avec les professionnels de santé."
+      },
+      "compliance": {
+        "title": "Augmenter la Conformité et l'Engagement avec le Contrôle du Contenu",
+        "description": "PharmaServ Copilot permet aux représentants de télécharger, mettre à jour et partager rapidement du contenu approuvé entre les équipes. Livrez des présentations impactantes et conformes qui renforcent l'engagement des professionnels de santé."
+      }
+    }
+  },
+  "fieldService": {
+    "hero": {
+      "heading": "Gestion du Service Terrain",
+      "title": "Orchestrez des Ventes Plus Intelligentes",
+      "description": "Rationalisez la planification des ventes, la planification des appels et les rapports en temps réel sur une seule plateforme. Le Service Terrain de PharmaServ offre aux équipes de vente de santé grand public la visibilité et les insights nécessaires pour optimiser les performances et croître en toute confiance.",
+      "button": "Obtenir une Démo"
+    },
+    "aiAgents": {
+      "badge": "Gestion du Service Terrain",
+      "title": "Créez des Agents IA Puissants pour Stimuler les Ventes"
+    },
+    "fieldStaff": {
+      "title": "Pour le Personnel de Terrain",
+      "description": "Le logiciel de Service Terrain PharmaServ aide à cultiver le succès des ventes, du prospect à la fidélité, en capturant les tendances et les insights de marché en temps réel.",
+      "features": [
+        "Gestion Intelligente des Commandes",
+        "Suivi des Paiements en Temps Réel",
+        "Remises Automatisées et Règles de Tarification",
+        "Mises à Jour Instantanées des Produits"
+      ]
+    },
+    "managers": {
+      "title": "Pour les Managers",
+      "description": "Le Service Terrain PharmaServ simplifie le rapport des données de vente, favorisant une plus grande responsabilisation personnelle, équipe votre équipe pour mener des conversations de coaching plus intelligentes, des objectifs ciblés au laser et la définition de buts pour plus de victoires tout autour.",
+      "features": [
+        "CRM Intégré et Données de Vente",
+        "Suivi en Direct de la Force de Vente",
+        "Prévisions de Revenus Alimentées par l'IA",
+        "Synchronisation sans effort avec les systèmes ERP"
+      ]
+    },
+    "whyFieldService": {
+      "badge": "Pourquoi le Gestionnaire de Service Terrain",
+      "title": "L'Impact Mesurable du Service Terrain PharmaServ",
+      "subtitle": "Optimisez les opérations de vente, simplifiez la facturation et améliorez le suivi des paiements. Donnez à votre équipe des insights en temps réel qui augmentent les revenus, améliorent la transparence et renforcent les relations clients."
+    },
+    "impacts": {
+      "alignTeams": {
+        "title": "Aligner les Équipes et Atteindre les Objectifs de Revenus",
+        "description": "Donnez à votre équipe de vente des données en temps réel, rationalisez les commandes et simplifiez la gestion des créances. Avec des insights alimentés par l'IA, votre équipe reste alignée, dépasse les objectifs et fait croître les revenus."
+      },
+      "cashFlow": {
+        "title": "Accélérer les Flux de Trésorerie et l'Efficacité de l'Équipe",
+        "description": "Le logiciel de Service Terrain PharmaServ aide les équipes de vente à accélérer les cycles de facturation-paiement, suivre le personnel de terrain en temps réel et débloquer des insights basés sur les données pour stimuler les flux de trésorerie et l'efficacité opérationnelle."
+      },
+      "aiScheduling": {
+        "title": "Simplifier les Opérations de Terrain avec la Planification IA",
+        "description": "Le logiciel de Service Terrain de PharmaServ aide votre équipe à obtenir des insights clients précieux, rationaliser la gestion des commandes et améliorer l'efficacité du service. Simplifiez les flux de travail, augmentez la productivité et alignez-vous avec les objectifs commerciaux pour obtenir des résultats impactants au Canada."
+      },
+      "revenueGrowth": {
+        "title": "Débloquer les Opportunités de Croissance des Revenus",
+        "description": "Exploitez les tendances de vente détaillées et les insights basés sur l'IA pour fixer des objectifs clairs, motiver les équipes et découvrir de nouvelles opportunités de vente croisée. Prenez des décisions basées sur les données et optimisez la tarification pour stimuler les conversions et accélérer la croissance des revenus."
+      }
+    }
+  },
+  "pharmaSales": {
+    "hero": {
+      "heading": "Logiciel de Vente Pharmaceutique",
+      "title": "Logiciel de Vente Pharmaceutique Omnicanal pour Simplifier les Opérations de Terrain",
+      "description": "Simplifiez les ventes de terrain, améliorez les performances de l'équipe et donnez aux dirigeants pharmaceutiques canadiens des insights en temps réel pour stimuler la croissance des revenus sur tous les territoires.",
+      "button": "Obtenir une Démo"
+    },
+    "partners": {
+      "badge": "Nos Partenaires",
+      "title": "Approuvé par les Parties Prenantes Leaders de l'Industrie"
+    },
+    "features": {
+      "badge": "Fonctionnalités",
+      "title": "Logiciel de Vente Pharmaceutique pour Stimuler les Revenus et la Productivité",
+      "subtitle": "Stimulez les ventes, rationalisez les opérations et optimisez l'ensemble de votre cycle de vente avec des outils conçus pour les équipes canadiennes des sciences de la vie.",
+      "loginButton": "Se connecter à un compte gratuit"
+    },
+    "impacts": {
+      "salesTrends": {
+        "title": "Débloquer des Insights Exploitables à partir des Tendances de Vente",
+        "description": "Suivez les tendances de vente et obtenez des insights en temps réel pour optimiser les performances, ajuster les stratégies et améliorer la couverture du marché."
+      },
+      "targetSetting": {
+        "title": "Construire des Plans de Vente Plus Solides avec la Définition et le Suivi d'Objectifs",
+        "description": "Donnez aux managers des insights en temps réel pour définir, suivre et ajuster les objectifs, stimulant des performances de vente plus fortes et la productivité de l'équipe."
+      },
+      "dynamicDiscounts": {
+        "title": "Stimuler les Flux de Trésorerie avec des Remises Dynamiques Intelligentes",
+        "description": "Stimulez les flux de trésorerie avec la Remise Dynamique de PharmaServ, identifiant les paiements anticipés et réduisant les retards pour une santé financière plus forte."
+      },
+      "liveReports": {
+        "title": "Visualiser les Rapports de Vente en Direct en Temps Réel",
+        "description": "Rationalisez votre processus de vente avec des rapports en temps réel, des listes de prix visuelles et une intégration ERP transparente pour des opérations plus fluides."
+      },
+      "receivables": {
+        "title": "Prendre le Contrôle des Créances et Réduire la Dette",
+        "description": "Obtenez une visibilité complète sur les créances commerciales et prenez des décisions financières plus intelligentes avec le tableau de bord intuitif de PharmaServ pour une gestion de dette sans effort."
+      },
+      "excelExport": {
+        "title": "Exporter Facilement les Données de Vente vers Excel",
+        "description": "Exportez les données de vente vers Excel pour des rapports personnalisés, le suivi des performances et une collaboration d'équipe plus facile."
+      }
+    },
+    "whyPharmaServ": {
+      "badge": "Pourquoi PharmaServ",
+      "title": "Stimuler les Performances de Vente avec le Logiciel de Vente PharmaServ",
+      "benefits": [
+        {
+          "title": "Atteindre Plus de Professionnels de Santé et Étendre Votre Territoire",
+          "description": "Ouvrez de nouvelles opportunités de vente avec des insights exploitables de PharmaServ qui aident votre équipe à atteindre plus de professionnels de santé, développer votre base de clients et augmenter les prescriptions."
+        },
+        {
+          "title": "Construire des Plans de Vente Plus Solides et Augmenter les Revenus",
+          "description": "Utilisez des insights en temps réel et des outils de ciblage pour construire des plans de vente plus solides, optimiser l'activité des représentants et augmenter les revenus avec PharmaServ."
+        },
+        {
+          "title": "Rester en Avance sur les Concurrents et Augmenter la Part de Marché",
+          "description": "Exploitez les insights de terrain en temps réel et une exécution de vente plus rapide pour surpasser les concurrents, attirer plus de professionnels de santé et augmenter la part de marché."
+        }
+      ]
+    }
+  },
+  "Solutions": {
+    "moreSolutionsTag": "Plus de Solutions",
+    "title": "Découvrez Plus de Façons d'Utiliser PharmaServ",
+    "video1": {
+      "title": "E-Détailing Piloté par l'IA pour Améliorer les Performances Commerciales",
+      "description": "Renforcez l'engagement des HCP avec l'E-Détailing piloté par l'IA qui simplifie la planification des appels, la diffusion de contenu et les insights en temps réel pour aider les représentants à conclure plus d'appels."
+    },
+    "video2": {
+      "title": "CRM pour les Ventes Pharmaceutiques, Suivi HCP et Gestion Clientèle",
+      "description": "Le CRM de PharmaServ centralise les interactions clients, le suivi des ventes et la coordination des HCP avec des insights pilotés par l'IA et une intégration ERP transparente."
+    }
+  },
+  "PharmaSalesAiTool": {
+    "hero": {
+      "heading": "Outil d'IA pour les Ventes Pharmaceutiques",
+      "title": "Plateforme de Vente IA pour Accélérer les Revenus",
+      "description": "Tirez parti des fonctionnalités alimentées par l'IA pour stimuler les ventes, rationaliser les opérations et maximiser les performances des ventes pharmaceutiques.",
+      "btnText": "Obtenir une Démo"
+    },
+    "partners": {
+      "tag": "Nos Partenaires",
+      "title": "Reconnu par les Principaux Acteurs de l'Industrie"
+    },
+    "features": {
+      "tag": "Fonctionnalités",
+      "title": "Logiciel de Vente IA pour Stimuler la Croissance des Revenus",
+      "description": "Utilisez des insights alimentés par l'IA pour optimiser le ciblage, qualifier les clients plus rapidement, personnaliser l'engagement et conclure plus d'affaires dans les ventes, le marketing et les équipes cliniques."
+    },
+    "impactCards": {
+      "card1": {
+        "title": "Augmentez les Revenus avec l'Accélération des Ventes par IA",
+        "description": "Utilisez des insights pilotés par l'IA, le scoring automatique des leads et des recommandations intelligentes pour prioriser les prospects à haute valeur, raccourcir les cycles de vente et aider votre équipe à conclure plus de deals HCP plus rapidement."
+      },
+      "card2": {
+        "title": "Utilisez l'IA pour Planifier des Événements Pharmaceutiques Engagants",
+        "description": "Tirez parti de la planification d'événements avec des insights IA qui recommandent les meilleurs lieux, timing et ciblent le bon public HCP, améliorant l'engagement et boostant les résultats commerciaux."
+      },
+      "card3": {
+        "title": "Qualifiez les Prospects à Haute Valeur Plus Rapidement avec l'IA",
+        "description": "Rationalisez l'onboarding avec une qualification pilotée par l'IA qui identifie plus tôt les prospects à fort potentiel et accélère votre chemin vers les revenus."
+      },
+      "loginBtn": "Connectez-vous à un compte gratuit"
+    },
+    "whyPharmaServ": {
+      "tag": "Pourquoi PharmaServ",
+      "title": "Les Meilleures Équipes Pharmaceutiques Choisissent le Logiciel de Vente IA PharmaServ",
+      "features": [
+        {
+          "title": "Étendez Votre Portée de Marché avec des Insights de Vente IA",
+          "description": "Utilisez l'IA pour découvrir de nouvelles opportunités à partir des données de marché, de l'analyse des concurrents et du comportement des clients, aidant votre équipe commerciale à développer son territoire, cibler les bons HCPs et rester en tête de la concurrence."
+        },
+        {
+          "title": "Optimisez la Stratégie de Vente avec des Analyses IA en Temps Réel",
+          "description": "Accédez à des analyses en temps réel et à des insights alimentés par l'IA pour guider la planification stratégique des ventes, optimiser les campagnes, améliorer le ciblage et augmenter les performances de revenus."
+        },
+        {
+          "title": "Prévoyez les Opportunités de Croissance avec l'Analyse Prédictive",
+          "description": "Utilisez l'analyse prédictive pour prévoir les tendances des ventes, identifier les opportunités de croissance et renforcer votre avantage concurrentiel dans les ventes pharmaceutiques."
+        }
+      ]
+    }
+  },
+  "edetailing": {
+    "hero": {
+      "heading": "E-détailing pharmaceutique",
+      "title": "Logiciel d'e-détailing médical pour renforcer l'engagement des professionnels de santé",
+      "description": "Proposez des présentations interactives et conformes aux professionnels de santé en présentiel, en ligne ou à distance. Donnez à vos représentants les moyens d'améliorer l'engagement, la mémorisation des messages et la confiance en la prescription.",
+      "btnText": "Demander une démo"
+    },
+    "partners": {
+      "label": "Nos partenaires",
+      "title": "Fié par les acteurs leaders de l'industrie",
+      "logoAlt": "logo des clients PharmaServ"
+    },
+    "features": {
+      "label": "Fonctionnalités",
+      "title": "E-détailing médical pour optimiser les visites commerciales",
+      "description": "Simplifiez les workflows des représentants, automatisez la planification, suivez les visites en temps réel, vérifiez la localisation et augmentez l'engagement HCP grâce à un e-détailing automatisé et conforme.",
+      "card1": {
+        "title": "Gérer efficacement les HCP et comptes",
+        "description": "Aidez les représentants à engager plus rapidement les HCP grâce à un contenu centralisé, des téléchargements rapides, des intégrations intelligentes et un suivi en temps réel. Moins de tâches administratives, plus de temps devant les prescripteurs.",
+        "image": "https://imgur.com/YwW0sWu.jpeg"
+      },
+      "card2": {
+        "title": "Planifier, suivre et optimiser les événements pharmaceutiques",
+        "description": "Organisez des réunions à fort impact, gérez les plannings et suivez la participation. Réduisez les absences, concentrez-vous sur les comptes prioritaires et augmentez le retour sur investissement des événements.",
+        "image": "https://imgur.com/VqEPifm.jpeg"
+      },
+      "card3": {
+        "title": "Suivre l'activité terrain en temps réel",
+        "description": "Offrez aux managers une visibilité complète sur l'activité des représentants, optimisez les itinéraires et comblez les lacunes de couverture. Évitez les visites manquées et améliorez la performance et la responsabilité.",
+        "image": "https://imgur.com/RCfcMef.jpeg"
+      },
+      "card4": {
+        "title": "Vérifier les visites terrain grâce au géorepérage",
+        "description": "Confirmez automatiquement les enregistrements des représentants grâce au géorepérage en temps réel. Éliminez les rapports manuels, améliorez la conformité et protégez la couverture territoriale.",
+        "image": "https://imgur.com/hVt7GiU.jpeg"
+      },
+      "card5": {
+        "title": "Automatiser les workflows d'e-détailing",
+        "description": "Automatisez les tâches quotidiennes, mettez à jour le contenu instantanément et gardez vos représentants en action. Libérez du temps pour vendre et conclure plus d'appels chaque jour.",
+        "image": "https://imgur.com/8wEJiu3.jpeg"
+      },
+      "cta": "Se connecter à un compte gratuit"
+    },
+    "why": {
+      "label": "Pourquoi PharmaServ",
+      "title": "Augmentez l'engagement des HCP avec le logiciel d'e-détailing médical de PharmaServ",
+      "card1": {
+        "title": "Savoir exactement qui cibler ensuite",
+        "description": "Utilisez les analyses HCP et HCO en temps réel pour améliorer le ciblage, optimiser les campagnes et prendre des décisions marketing plus rapides qui favorisent la croissance."
+      },
+      "card2": {
+        "title": "Permettre aux représentants de vendre même hors ligne",
+        "description": "PharmaServ fonctionne hors ligne, permettant aux représentants de présenter, d'engager et de conclure des ventes même avec une connexion instable ou inexistante."
+      },
+      "card3": {
+        "title": "Accélérer l'intégration, suivre les KPIs et atteindre les objectifs plus tôt",
+        "description": "L'e-détailing PharmaServ accélère l'intégration, suit les KPIs en temps réel et optimise les visites pour atteindre plus rapidement les objectifs de revenus."
+      }
+    }
+  },
+  "CRM": {
+    "hero": {
+      "heading": "CRM Pharmaceutique",
+      "title": "CRM Pharma pour Maximiser la Croissance des HCP",
+      "description": "Obtenez une visibilité complète sur l'activité des HCP, simplifiez la planification des visites, automatisez les suivis et aidez votre équipe commerciale à conclure plus rapidement des prescriptions.",
+      "btnText": "Demander une démo"
+    },
+    "partners": {
+      "label": "Nos partenaires",
+      "heading": "Approuvé par les principaux acteurs du secteur",
+      "logoAlt": "Logo des clients PharmaServ"
+    },
+    "features": {
+      "label": "Fonctionnalités",
+      "heading": "CRM Pharma pour améliorer l'efficacité commerciale et les relations clients",
+      "description": "Centralisez les informations clients, automatisez les flux de travail, suivez les commandes, optimisez la communication d’équipe et les visites terrain pour stimuler la performance commerciale.",
+      "loginBtn": "Se connecter à un compte gratuit"
+    },
+    "impacts": {
+      "impact1": {
+        "title": "Comprenez vos clients et qualifiez les prospects plus rapidement",
+        "description": "PharmaServ CRM qualifie automatiquement les prospects, suit les points faibles des clients et donne aux représentants le contexte complet pour des suivis efficaces et de meilleures opportunités de vente."
+      },
+      "impact2": {
+        "title": "Centralisez l’historique des commandes et les données clients",
+        "description": "Suivez les commandes passées, gérez les dossiers clients et accédez à des informations clés sur le comportement d'achat pour répondre aux besoins des HCP et assurer des commandes répétées."
+      },
+      "impact3": {
+        "title": "Simplifiez la communication et la collaboration sur le terrain",
+        "description": "Permettez des retours en temps réel et une communication directe entre managers et représentants. Améliorez l’alignement, adaptez-vous rapidement et maintenez l’exécution sur le terrain."
+      },
+      "impact4": {
+        "title": "Planifiez des visites plus intelligentes et optimisez les routines terrain",
+        "description": "Utilisez les informations du CRM pour planifier des itinéraires optimisés, prioriser les comptes clés et prendre des décisions basées sur les données afin de réduire les visites manquées."
+      },
+      "impact5": {
+        "title": "Organisez les flux de travail commerciaux et réduisez les tâches administratives",
+        "description": "PharmaServ CRM rationalise les tâches commerciales grâce à des planificateurs de flux de travail qui réduisent la fatigue décisionnelle et automatisent le travail quotidien."
+      },
+      "impact6": {
+        "title": "Engagez les HCP avec des informations CRM plus intelligentes",
+        "description": "Fournissez à votre équipe commerciale des analyses de performance et des outils CRM interactifs pour améliorer l'engagement client, renforcer les relations et accélérer la croissance."
+      }
+    },
+    "why": {
+      "label": "Pourquoi PharmaServ",
+      "heading": "Renforcez la conformité, réduisez les coûts et augmentez les ventes avec le CRM PharmaServ"
+    },
+    "whyContent": {
+      "why1": {
+        "title": "Favorisez de meilleures relations clients",
+        "description": "PharmaServ CRM offre une vue complète des besoins, préférences et historiques d’engagement des clients pour stimuler l’engagement des HCP et les ventes répétées."
+      },
+      "why2": {
+        "title": "Garantissez la confidentialité des données et la conformité réglementaire",
+        "description": "Avec des journaux d’audit intégrés, PharmaServ CRM assure une conformité réglementaire totale, protège les données clients et préserve la confiance des patients."
+      },
+      "why3": {
+        "title": "Accélérez votre transformation numérique",
+        "description": "Exploitez les informations basées sur l’IA et des analyses avancées pour optimiser les ventes et le marketing, et stimuler la croissance grâce à une technologie plus intelligente."
+      },
+      "why4": {
+        "title": "Réduisez les coûts opérationnels et augmentez l’efficacité",
+        "description": "PharmaServ CRM automatise le recrutement et les flux de travail commerciaux pour réduire le travail manuel, diminuer les dépenses et libérer du temps pour vendre davantage."
+      }
+    }
+  },
+  "ConversationIntelligence": {
+    "hero": {
+      "heading": "Intelligence des Conversations",
+      "title": "Intelligence des Conversations pour des Ventes Pharmaceutiques Plus Intelligentes",
+      "description": "Analysez les conversations commerciales en temps réel pour fournir des insights actionnables qui accélèrent l'intégration, améliorent les performances des représentants et aident votre équipe à conclure plus d'affaires plus rapidement.",
+      "btnText": "Obtenir une Démo"
+    },
+    "partners": {
+      "tag": "Nos Partenaires",
+      "title": "Reconnu par les Principaux Acteurs de l'Industrie"
+    },
+    "features": {
+      "tag": "Fonctionnalités",
+      "title": "Intelligence des Conversations pour Transformer Chaque Appel en Revenu",
+      "description": "Tirez parti des insights conversationnels en temps réel pour optimiser le coaching, améliorer le ciblage des représentants, accélérer l'intégration et prévoir la croissance des ventes avec des données actionnables."
+    },
+    "impactCards": {
+      "card1": {
+        "title": "Améliorez la Précision des Prévisions avec des Revues d'Affaires Plus Intelligentes",
+        "description": "Analysez les données d'appel et l'activité des comptes pour affiner les prévisions de ventes, prioriser les comptes et atteindre plus rapidement les objectifs de revenus."
+      },
+      "card2": {
+        "title": "Boostez la Productivité des Représentants avec un Coaching en Temps Réel",
+        "description": "Guidez les représentants avec des insights d'appel en temps réel et un coaching actionnable pour renforcer les conversations et augmenter les prescriptions."
+      },
+      "card3": {
+        "title": "Maximisez l'Engagement des HCP avec des Interactions Basées sur les Données",
+        "description": "Surveillez l'activité des représentants, assurez une messagerie cohérente et augmentez l'engagement des HCP qui soutient la croissance des revenus."
+      },
+      "loginBtn": "Connectez-vous à un compte gratuit"
+    },
+    "whyPharmaServ": {
+      "tag": "Pourquoi PharmaServ",
+      "title": "Transformez les Conversations Commerciales en Revenu avec l'Intelligence des Conversations PharmaServ",
+      "features": [
+        {
+          "title": "Débloquez des Insights HCP pour Générer Plus de Ventes",
+          "description": "Tirez parti des données d'appel et des notes de réunion pour identifier les besoins des HCP, personnaliser les messages et guider les représentants à conclure plus d'affaires."
+        },
+        {
+          "title": "Optimisez la Stratégie Commerciale avec des Analyses en Temps Réel",
+          "description": "Analysez les données conversationnelles et de terrain pour découvrir des tendances, affiner le ciblage, ajuster les tactiques commerciales et booster la productivité des représentants."
+        },
+        {
+          "title": "Vérifiez l'Activité des Représentants avec un Géo-Tracking en Temps Réel",
+          "description": "Utilisez l'intelligence géographique pour confirmer les visites, surveiller la couverture des représentants et assurer une responsabilité totale sur le terrain."
+        },
+        {
+          "title": "Automatisez les Relances et la Communication avec les HCP",
+          "description": "Automatisez les relances personnalisées, rationalisez la communication et maintenez les représentants alignés sur les besoins évolutifs des HCP."
+        }
+      ]
+    }
+  },
+  "Register": {
+    "title": "Développez vos revenus pharmaceutiques avec la plateforme omnicanale IA de PharmaServ",
+    "description": "Unifiez vos équipes pharma grâce à l’automatisation alimentée par l’IA, l’engagement multicanal, les insights en temps réel et une exécution terrain optimisée, le tout sur une seule plateforme.",
+    "Empower": "Donnez les moyens à l’ensemble de vos équipes",
+    "IAgree": "J’accepte la",
+    "PrivacyPolicy": "Politique de confidentialité",
+    "GetStarted": "Commencer",
+    "AlreadyHaveAccount": "Vous avez déjà un compte ?",
+    "Login": "Connexion",
+    "RightsReserved": "Tous droits réservés",
+    "Submitting": "Envoi en cours",
+    "form": {
+      "fullName": "Votre nom complet",
+      "companyName": "Nom de votre entreprise",
+      "email": "Email professionnel",
+      "referralCode": "Code de parrainage (optionnel)",
+      "ScheduleACall": "Planifier un appel"
+    },
+    "RegistrationSuccessful": "Inscription réussie",
+    "RegistrationFailed": "Échec de l’inscription",
+    "EmailError": "Veuillez saisir une adresse e-mail d'entreprise valide",
+    "TrustedBy": "Approuvé par",
+    "SeeHowItWorks": "Voyez comment ça marche",
+    "WatchProductDemo": "Regardez la démo du produit",
+    "SeeHowPharmaServWorks": "Rejoignez les principales marques pharmaceutiques qui utilisent déjà la plateforme d'IA agentique de PharmaServ pour simplifier l'engagement des praticiens de la santé, rationaliser les opérations sur le terrain et accélérer l'adoption de la marque dans tous les territoires. Regardez la courte démo pour le voir en action.",
+    "WhatYoullSee": "Découvrez avec quelle facilité l'IA transforme votre flux de travail:",
+    "SimpleWorkflows": "Résumer les rapports d'appels à l'aide de l'IA",
+    "RealTimeTracking": "Suivi en temps réel des itinéraires et des enregistrements des représentants",
+    "OrganizedManagement": "Gestion organisée des HCP, HCO et territoires",
+    "ToolsForSetting": "Outils de définition et de suivi des objectifs de produits et de ventes",
+    "InsightsIntoBrandAdoption": "Aperçu de l'adoption de la marque et des mesures de performance",
+    "QuickExport": "Exportation rapide d'analyses et de rapports pour la prise de décision",
+    "Témoignage": "Témoignage",
+    "ImpressiveSoftware": "Outil logiciel impressionnant pour les marques de soins de santé, avec une équipe extraordinaire et de solides connaissances du secteur. Continuez votre excellent travail.",
+    "FillOut": "Remplissez le formulaire pour regarder la vidéo complète sur demande",
+    "WatchNow": "Regarder maintenant",
+    "WatchTheDemo": "Regardez la démo",
+    "ThanksForYourInterest": "Merci de votre intérêt pour PharmaServ et les nouvelles façons d'accélérer et d'automatiser vos flux de travail, de décharger vos équipes de service et d'élever votre entreprise.",
+    "SignUpAndWatchNow": "Inscrivez-vous et regardez maintenant",
+    "SkipSignUpAndWatchNow": "Ignorer l'inscription et regarder maintenant",
+    "OR": "OU",
+    "LimitedDemoSlotAvailable": "Emplacement de démonstration limité disponible",
+    "SecureYourSpot": "Sécurisez votre place",
+    "YourCompanyEmail": "L'e-mail de votre entreprise"
+  }
+}
