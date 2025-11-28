@@ -1,5 +1,4 @@
 'use client';
-import CounterSection from '@/components/counter';
 import Faq from '@/components/faq';
 import Footer from '@/components/footer';
 import HcpEngagement from '@/components/hcpEngagement';
