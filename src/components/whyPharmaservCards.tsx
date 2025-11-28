@@ -49,34 +49,41 @@ const WhyPharmaservCards = () => {
   ];
 
   return (
-    <div className="flex gap-8 justify-center relative flex-wrap items-stretch">
+    <div className="flex flex-col gap-4 justify-start items-start text-start relative z-[10] ">
       {cards.map((card, index) => (
         <div
           key={index}
-          className="justify-start items-center text-start md:min-w-[300px] md:max-w-[350px]  
-          max-md:z-[10]  max-md:sticky max-md:h-[60vh]  max-md:bg-[url('/assets/background_images/Background.svg')] max-md:bg-cover max-md:bg-center max-md:bg-no-repeat"
+          className="flex flex-col gap-4 justify-start items-center text-start z-[10] h-[80vh] sticky w-[100vw] bg-[url('/assets/background_images/Background.svg')] "
           style={{
+            // borderColor: card.color,
             top: `${(index + 1) * 30 + 200}px`,
+            // boxShadow: `0px 4px 20px -5px ${card.color}33`,
           }}
         >
           <div
-            className="border p-[32px] bg-white rounded-[16px]"
+            className={`  w-[95%] px-4 md:px-[50px] pt-12 md:pt-[66px] sm:max-w-[600px] md:max-w-[775px] bg-white rounded-[16px] p-4 border z-[10]`}
             style={{
               borderColor: card.color,
+              // top: ` ${(index + 1) * 50 + 100}px`,
+              boxShadow: `0px 4px 20px -5px ${card.color}33`,
             }}
           >
             <div
-              className={` rounded-full w-[60px] h-[60px] flex items-center justify-center mb-12`}
+              className={` rounded-full w-[60px] h-[60px] flex items-center justify-center mb-6`}
               style={{
                 backgroundColor: card.color,
               }}
             >
-              <Image src={card.icon} alt="check" width={23} height={23} />
+              <Image src={card.icon} alt="check" width={28} height={28} />
             </div>
-            <h6 className=" text-black text-base font-bold mb-2 font-sofia">
+            <h3 className="text-2xl lg:text-4xl text-black mb-4 font-sofia">
               {card.title}
-            </h6>
-            <p className={`text-xs text-[#364153]`}>{card.description}</p>
+            </h3>
+            <p
+              className={`text-base lg:text-lg text-[#364153]`}
+            >
+              {card.description}
+            </p>
           </div>
         </div>
       ))}

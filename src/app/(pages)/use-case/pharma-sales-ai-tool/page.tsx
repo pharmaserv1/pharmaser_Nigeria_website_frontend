@@ -13,7 +13,7 @@ const PharmaSalesAiTool = () => {
   return (
     <div>
       <ProductHeroSection2
-        heading="Sales"
+        heading="Pharma Sales AI Tool"
         title="AI Sales Platform That Accelerates Revenue Intelligently"
         description="Give your sales, marketing and medical team the advantage of foresight.
 PharmaServ’s AI Sales Platform helps pharma brands simplify rep workflows, automate scheduling, verify field visits in real time, and boost HCP engagement (All while staying compliant and data-driven)."
@@ -175,7 +175,7 @@ PharmaServ’s AI Sales Platform helps pharma brands simplify rep workflows, aut
         <div className="max-xl:px-4 w-full xl:w-[1152px]">
           <div className="bg-white text-center pt-12  flex flex-col items-center space-y-10 px-4 ">
             <h2 className="text-3xl lg:text-4xl text-center text-[#0A0A0A] max-w-[700x] font-sofia">
-              Trusted by Canada&apos;s Leading
+              Trusted by leading
               <br /> Pharma and Life Science Innovators
             </h2>
           </div>

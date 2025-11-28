@@ -13,7 +13,7 @@ const SolutionsSection: React.FC = () => {
         <div className="md:w-[400px] lg:w-[510px] md:pr-2 lg:pr-10 lg:mb-0 gap-8 flex order-2 md:order-1">
           <div className="">
             <h3 className="text-2xl lg:text-[40px] lg:leading-[50px] font-semibold text-[#060B13] mb-4 font-sofia">
-              PharmaServ Copoliot
+              PharmaServ Copilot
             </h3>
             <p className="text-[#363D4F] text-sm lg:text-[15px] mb-6">
               PharmaServ Copilot aggregates and analyzes information to help

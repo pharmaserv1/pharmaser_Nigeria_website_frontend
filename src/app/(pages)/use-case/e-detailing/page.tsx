@@ -227,7 +227,7 @@ PharmaServ helps pharma teams make every conversation count by improving HCP eng
         <div className="max-xl:px-4 w-full xl:w-[1152px]">
           <div className="bg-white text-center pt-12  flex flex-col items-center space-y-10 px-4 ">
             <h2 className="text-3xl lg:text-4xl text-center text-[#0A0A0A] max-w-[700x] font-sofia">
-              Trusted by Canada&apos;s Leading
+              Trusted by leading
               <br /> Pharma and Life Science Innovators
             </h2>
           </div>
