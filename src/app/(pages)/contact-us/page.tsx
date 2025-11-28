@@ -85,7 +85,7 @@ const Page = () => {
         <div className="flex items-center justify-between gap-8 max-lg:flex-col">
           <div className=" space-y-6 text-center lg:text-left  lg:max-w-[704px] max-lg:flex max-lg:flex-col max-lg:items-center">
             <p className="bg-[#060B1326] text-[#060B13] font-medium text-sm rounded-[30px] py-2 px-6 w-fit">
-              Sales
+              We Are Here To Help
             </p>
             <h1
               className={`text-3xl lg:text-[56px] lg:leading-[65px]  mb-5 text-dark-gray font-semibold font-sofia max-w-[600px]`}
@@ -280,7 +280,7 @@ const Page = () => {
         <div className="max-xl:px-4 w-full xl:w-[1152px]">
           <div className="bg-white text-center pt-12  flex flex-col items-center space-y-10 px-4 ">
             <h2 className="text-3xl lg:text-4xl text-center text-[#0A0A0A] max-w-[700x] font-sofia">
-              Trusted by Canada&apos;s Leading
+              Trusted by leading
               <br /> Pharma and Life Science Innovators
             </h2>
           </div>

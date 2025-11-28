@@ -74,8 +74,8 @@ const Footer = () => {
                 className="text-gray-700 cursor-pointer"
                 onClick={() => {
                   const a = document.createElement('a');
-                  a.href = '/files/Pharmaserv_Privacy_Policy.docx';
-                  a.download = 'Pharmaserv_Privacy_Policy.docx';
+                  a.href = '/files/Pharmaserv_Privacy_Policy.pdf';
+                  a.download = 'Pharmaserv_Privacy_Policy.pdf';
                   a.click();
                 }}
               >

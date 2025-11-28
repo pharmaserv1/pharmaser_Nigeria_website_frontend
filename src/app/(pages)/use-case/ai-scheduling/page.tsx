@@ -12,7 +12,7 @@ const AiScheduling = () => {
   return (
     <div>
       <ProductHeroSection2
-        heading="Sales"
+        heading="AI Scheduling Assistant"
         title="AI Scheduling Assistant to Simplify Medical Representatives Visits"
         description="Say goodbye to endless manual planning."
         description2="PharmaServ’s AI Scheduling Assistant helps your team plan visits seamlessly, generate reports automatically, and uncover valuable insights. It keeps your medical reps productive, organized, and always ready to sell."
@@ -162,7 +162,7 @@ AI-Powered Scheduling"
         <div className="max-xl:px-4 w-full xl:w-[1152px]">
           <div className="bg-white text-center pt-12  flex flex-col items-center space-y-10 px-4 ">
             <h2 className="text-3xl lg:text-4xl text-center text-[#0A0A0A] max-w-[700x] font-sofia">
-              Trusted by Canada&apos;s Leading
+              Trusted by leading
               <br /> Pharma and Life Science Innovators
             </h2>
           </div>

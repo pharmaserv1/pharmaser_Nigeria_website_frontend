@@ -12,8 +12,8 @@ const HeroSection: React.FC = () => {
         <div className="flex  max-md:flex-col justify-between items-center text-center max-w-[1280px] mx-auto max-xl:px-8 gap-8 ">
           <div className="max-w-4xl  mt-8 md:mt-20 mb-4 ">
             <h1 className="text-4xl lg:text-6xl font-semibold  text-white lg:w-[606px] !font-sofia max-md:text-center text-left mb-6">
-              Assistant Omnichannel AI Assistant to Empower Sales, Marketing,
-              and Medical Solutions
+            Omnichannel AI Assistant to Empower Sales,
+              Marketing, and Medical
             </h1>
             <p className="text-base lg:text-xl text-[#FFFFFFB2] mb-4 max-w-[456px] text-left font-semibold max-md:text-center">
               PharmaServ helps life-science and Pharma teams simplify work,

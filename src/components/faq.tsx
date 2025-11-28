@@ -82,7 +82,7 @@ const Faq = ({ text }: { text?: string }) => {
     {
       title: 'What security measures does Pharmaserv implement?',
       description: [
-        'PharmaServ uses secure cloud technology, end-to-end encryption, and strict access controls to protect your data. System updates are applied regularly, keeping your company’s information safe from unauthorized access. The system can also be hosted on your server.',
+        'PharmaServ uses secure cloud technology, end-to-end encryption, and strict access controls to protect your data. System updates are applied regularly, keeping your company’s information safe from unauthorized access.',
       ],
     },
   ];

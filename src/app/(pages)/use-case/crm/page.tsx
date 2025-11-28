@@ -14,7 +14,7 @@ const CRM = () => {
   return (
     <div>
       <ProductHeroSection2
-        heading="Sales"
+        heading="Pharma CRM"
         title="Pharma CRM Built to Strengthen Every HCP Relationship"
         description="PharmaServ CRM makes it easy for pharma teams to understand their customers better, plan smarter, and close prescriptions faster."
         description2="Gain full visibility into HCP activity, automate follow-ups, and help your team focus on what truly matters - building lasting trust and driving growth."
@@ -220,7 +220,7 @@ const CRM = () => {
         <div className="max-xl:px-4 w-full xl:w-[1152px]">
           <div className="bg-white text-center pt-12  flex flex-col items-center space-y-10 px-4 ">
             <h2 className="text-3xl lg:text-4xl text-center text-[#0A0A0A] max-w-[700x] font-sofia">
-              Trusted by Canada&apos;s Leading
+              Trusted by leading
               <br /> Pharma and Life Science Innovators
             </h2>
           </div>

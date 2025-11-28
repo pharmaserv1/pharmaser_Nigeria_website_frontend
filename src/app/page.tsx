@@ -40,8 +40,8 @@ export default function Home() {
         {/* why pharmaserve */}
 
         <section className="bg-[url('/assets/background_images/Background.svg')] bg-cover bg-center bg-no-repeat mt-8 ">
-          <div className=" text-center py-6 pt-24  mx-auto space-y-6 px-4 flex flex-col items-center max-w-[1280px]">
-            <div className=" max-md:sticky max-md:top-[100px] max-md:z-[9]  flex flex-col items-center">
+          <div className=" text-center pt-24  mx-auto space-y-6 px-4 flex flex-col items-center max-w-[1280px]">
+            <div className="sticky top-[100px] z-[9]  flex flex-col items-center">
               <p className=" text-blue font-bold text-2xl lg:text-4xl py-2 px-6 w-fit">
                 Why PharmaServ Works for You
               </p>
@@ -64,7 +64,7 @@ export default function Home() {
                 Our Clients
               </p>
               <h2 className="text-3xl lg:text-4xl text-center text-[#0A0A0A] max-w-[700x] font-sofia">
-                Trusted by Canada&apos;s Leading
+                Trusted by leading
                 <br /> Pharma and Life Science Innovators
               </h2>
             </div>
@@ -95,9 +95,9 @@ export default function Home() {
                 ]}
               />
             </div>
-            <div className="">
+            {/* <div className="">
               <CounterSection />
-            </div>
+            </div> */}
           </div>
         </section>
 
